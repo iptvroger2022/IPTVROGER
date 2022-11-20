@@ -174,6 +174,24 @@ http://1468.srvsh.xyz:80/paulovitor826648/656383052/90589
 #EXTINF:-1 tvg-id="" tvg-name="TVIDEO NEWS HD (P)" tvg-logo="http://cplog.xyz/tvideonews.jpg" group-title="CANAIS | DOCUMENTÁRIO",TVIDEO NEWS HD (P)
 https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENDO FILMES" tvg-logo="https://i.imgur.com/5zjmhXY.png" group-title="CANAIS  | FILMES E SERIES",ENTRETENDO FILMES
+http://uva.bccdn.xyz:80/nossoteste/Trevizam231090/63864
+
+#EXTINF:-1 tvg-id="" tvg-name="BONS TEMPOS TV" tvg-logo="https://i.imgur.com/CDUhqE9.png" group-title="CANAIS  | FILMES E SERIES",BONS TEMPOS TV
+http://uva.bccdn.xyz:80/nossoteste/Trevizam231090/80161
+
+#EXTINF:-1 tvg-id="" tvg-name="BORA FILMES" tvg-logo="https://i.imgur.com/XEL5noc.png" group-title="CANAIS  | FILMES E SERIES",BORA FILMES
+http://uva.bccdn.xyz:80/nossoteste/Trevizam231090/63052
+
+#EXTINF:-1 tvg-id="" tvg-name="TV CINE ENTRETENDIMENTO" tvg-logo="https://i.imgur.com/SnMFUZ6.png" group-title="CANAIS  | FILMES E SERIES",TV CINE ENTRETENDIMENTO
+http://uva.bccdn.xyz:80/nossoteste/Trevizam231090/60183
+
+#EXTINF:-1 tvg-id="" tvg-name="URBAN MOVIES HD" tvg-logo="https://i.imgur.com/kZvQPRx.png" group-title="CANAIS  | FILMES E SERIES",URBAN MOVIES HD
+http://uva.bccdn.xyz:80/nossoteste/Trevizam231090/67256
+
+#EXTINF:-1 tvg-id="" tvg-name="URBAN SERIES HD" tvg-logo="https://i.imgur.com/QQPZ8Gp.png" group-title="CANAIS  | FILMES E SERIES",URBAN SERIES HD
+http://uva.bccdn.xyz:80/nossoteste/Trevizam231090/67255
+
 #EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES FHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/TNTSERIESUHDEHDLG.png" group-title="CANAIS | FILMES E SÉRIES",TNT SERIES FHD
 http://1468.srvsh.xyz:80/paulovitor826648/656383052/16137
 
@@ -227,6 +245,12 @@ http://1468.srvsh.xyz:80/paulovitor826648/656383052/14772
 
 #EXTINF:-1 tvg-id="" tvg-name="GLOBOSAT FHD tvg-logo=" group-title="CANAIS | FILMES E SÉRIES",GLOBOSAT FHD
 http://1468.srvsh.xyz:80/paulovitor826648/656383052/92828
+
+#EXTINF:-1 tvg-id="" tvg-name="WEB TV EXTREME" tvg-logo="https://i.imgur.com/dbkpGEm.png" group-title="CANAIS  | FILMES E SERIES",WEB TV EXTREME
+http://uva.bccdn.xyz:80/nossoteste/Trevizam231090/60182
+
+#EXTINF:-1 tvg-id="" tvg-name="NOVA PLAY FILMES E SERIES" tvg-logo="https://i.imgur.com/SBjOGyN.png" group-title="CANAIS  | FILMES E SERIES",NOVA PLAY FILMES E SERIES
+http://uva.bccdn.xyz:80/nossoteste/Trevizam231090/60181
 
 #EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME FHD" tvg-logo="http://cplog.xyz/lifetime.png" group-title="CANAIS | FILMES E SÉRIES",LIFETIME FHD
 http://1468.srvsh.xyz:80/paulovitor826648/656383052/16128
@@ -624,6 +648,15 @@ http://1468.srvsh.xyz:80/paulovitor826648/656383052/91054
 #EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA HD" tvg-logo="http://cplog.xyz/viva.png" group-title="CANAIS | VARIEDADES",VIVA HD
 http://1468.srvsh.xyz:80/paulovitor826648/656383052/14632
 
+#EXTINF:-1 tvg-id="" tvg-name="HELLO TV" tvg-logo="https://i.imgur.com/3ycKJ3h.png" group-title="CANAIS | ABERTOS",HELLO TV
+http://uva.bccdn.xyz:80/nossoteste/Trevizam231090/63867
+
+#EXTINF:-1 tvg-id="" tvg-name="INSPIRE TV" tvg-logo="https://i.imgur.com/EpegljX.png" group-title="CANAIS | ABERTOS",INSPIRE TV
+http://uva.bccdn.xyz:80/nossoteste/Trevizam231090/63866
+
+#EXTINF:-1 tvg-id="" tvg-name="ISTV HD" tvg-logo="http://ccdnblck.xyz:80/images/05ebe029feb170745762c5c605493d57.png" group-title="CANAIS | ABERTOS",ISTV HD
+http://uva.bccdn.xyz:80/nossoteste/Trevizam231090/31746
+
 #EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP FHD" tvg-logo="http://cplog.xyz/sbt.png" group-title="CANAIS | ABERTOS",SBT SP FHD
 http://1468.srvsh.xyz:80/paulovitor826648/656383052/90526
 
@@ -821,6 +854,9 @@ http://1468.srvsh.xyz:80/paulovitor826648/656383052/27287
 
 #EXTINF:-1 tvg-id="tv.sergipe.br" tvg-name="GLOBO SERGIPE HD" tvg-logo="http://cplog.xyz/globose.png" group-title="CANAIS | GLOBO",GLOBO SERGIPE HD
 http://1468.srvsh.xyz:80/paulovitor826648/656383052/27286
+
+#EXTINF:-1 tvg-id="" tvg-name="URBAN KIDS HD" tvg-logo="https://i.imgur.com/Zezw0K9.png" group-title="CANAIS | INFANTIL",URBAN KIDS HD
+http://uva.bccdn.xyz:80/nossoteste/Trevizam231090/67257
 
 #EXTINF:-1 tvg-id="baby.br" tvg-name="BABY TV HD" tvg-logo="http://cplog.xyz/babytv.png" group-title="CANAIS | INFANTIL",BABY TV HD
 http://1468.srvsh.xyz:80/paulovitor826648/656383052/90860
