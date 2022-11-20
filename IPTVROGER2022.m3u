@@ -1,4 +1,4 @@
-#EXTM3U 20/06/2022
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz, https://i.mjh.nz/PlutoTV/all.xml.gz, http://dns.clientetv.net/xmltv.php?username=camisa10&password=camisa10&type=m3u, http://bigforce.club:8880/xmltv.php?username=QSPGT7NM8W&password=zymXsKtGLq&type=m3u, http://conexaoonline.top/xmltv.php?username=3491696680&password=Guga902021&type=m3u"
 #EXTINF:-1 tvg-id="Vazio.br" tvg-name="JOGOS DO DIA" tvg-logo="https://cdn-icons-png.flaticon.com/512/14/14405.png" group-title="EVENTOS DO DIA",JOGOS DO DIA
 http://conexaoonline.top:80/3491696680/Guga902021/260711
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tg.png" group-title="INFANTIS",TOON GOOGLES
