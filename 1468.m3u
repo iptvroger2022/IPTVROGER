@@ -33,6 +33,9 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 #EXTINF:-1 tvg-id="JPNews.br" tvg-name="JOVEM PAN NEWS HD" tvg-logo="http://livetv2021.site:8080/images/65c2b69232cf1f0af3dcd68dcd7b3465.png" group-title="CANAIS | NOTICIAS",JOVEM PAN NEWS HD (youtube)
 http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.youtube.com/c/jovempannews/live
 
+#EXTINF:-1 tvg-id="ext" tvg-name="4 POR 4" tvg-logo="http://milionariohomeoffice.com.br/img/4.png" group-title="CANAIS | NOTÍCIAS",4 POR 4
+https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ext" tvg-name="REVISTA OESTE (YOUTUBE)" tvg-logo="https://www.portaldosjornalistas.com.br/wp-content/uploads/2020/03/Revista-Oeste.jpg" group-title="CANAIS | NOTÍCIAS",REVISTA OESTE (YOUTUBE)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@RevistaOeste
 
