@@ -33,77 +33,87 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 #EXTINF:-1 tvg-id="JPNews.br" tvg-name="JOVEM PAN NEWS HD" tvg-logo="http://livetv2021.site:8080/images/65c2b69232cf1f0af3dcd68dcd7b3465.png" group-title="CANAIS | NOTICIAS",JOVEM PAN NEWS HD (youtube)
 http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.youtube.com/c/jovempannews/live
 
-#EXTINF:-1 tvg-id="ext" tvg-name="4 POR 4" tvg-logo="http://milionariohomeoffice.com.br/img/4.png" group-title="CANAIS | NOTÍCIAS",4 POR 4
+#EXTINF:-1 tvg-id="ext" tvg-name="4 POR 4" tvg-logo="http://milionariohomeoffice.com.br/img/4.png" group-title="CANAIS | NOTICIAS",4 POR 4
 https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="REVISTA OESTE (YOUTUBE)" tvg-logo="https://www.portaldosjornalistas.com.br/wp-content/uploads/2020/03/Revista-Oeste.jpg" group-title="CANAIS | NOTÍCIAS",REVISTA OESTE (YOUTUBE)
+#EXTINF:-1 tvg-id="ext" tvg-name="REVISTA OESTE (YOUTUBE)" tvg-logo="https://www.portaldosjornalistas.com.br/wp-content/uploads/2020/03/Revista-Oeste.jpg" group-title="CANAIS | NOTICIAS",REVISTA OESTE (YOUTUBE)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@RevistaOeste/live
 
-#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS FHD" tvg-logo="http://cplog.xyz/bandnews.png" group-title="CANAIS | NOTICIAS",BAND NEWS FHD
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS FHD" tvg-logo="https://i.imgur.com/3YlJsCL.png" group-title="CANAIS | NOTICIAS",BAND NEWS FHD
 http://1468.srvsh.xyz:80/paulovitor826648/656383052/27107
 
-#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS HD" tvg-logo="http://cplog.xyz/bandnews.png" group-title="CANAIS | NOTICIAS",BAND NEWS HD
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS HD" tvg-logo="https://i.imgur.com/3YlJsCL.png" group-title="CANAIS | NOTICIAS",BAND NEWS HD
 http://1468.srvsh.xyz:80/paulovitor826648/656383052/105414
 
-#EXTINF:-1 tvg-id="bbc.earth.br" tvg-name="BBC WORLD HD tvg-logo=" group-title="CANAIS | NOTICIAS",BBC WORLD HD
+#EXTINF:-1 tvg-id="bbc.earth.br" tvg-name="BBC WORLD HD tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png
+" group-title="CANAIS | NOTICIAS",BBC WORLD HD
 http://1468.srvsh.xyz:80/paulovitor826648/656383052/105438
 
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL HD" tvg-logo="http://cplog.xyz/cnnbrasil.png" group-title="CANAIS | NOTICIAS",CNN BRASIL HD
 http://1468.srvsh.xyz:80/paulovitor826648/656383052/90957
 
-#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL SD" tvg-logo="http://cplog.xyz/cnnbrasil.png" group-title="CANAIS | NOTICIAS",CNN BRASIL SD
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/512px-CNN_Brasil.svg.png" group-title="CANAIS | NOTICIAS",CNN BRASIL SD
 http://1468.srvsh.xyz:80/paulovitor826648/656383052/90953
 
-#EXTINF:-1 tvg-id="cnn.en.espanol.br" tvg-name="CNN ESPANHOL HD" tvg-logo="http://cplog.xyz/cnnespanhol.png" group-title="CANAIS | NOTICIAS",CNN ESPANHOL HD
-http://1468.srvsh.xyz:80/paulovitor826648/656383052/102665
-
-#EXTINF:-1 tvg-id="cnn.international.br" tvg-name="CNN INTERNACIONAL HD" tvg-logo="http://cplog.xyz/CNN_Internationa.png" group-title="CANAIS | NOTICIAS",CNN INTERNACIONAL HD
+#EXTINF:-1 tvg-id="cnn.international.br" tvg-name="CNN INTERNACIONAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/512px-CNN_International_logo.svg.png" group-title="CANAIS | NOTICIAS",CNN INTERNACIONAL HD
 http://1468.srvsh.xyz:80/paulovitor826648/656383052/102664
 
-#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS FHD" tvg-logo="http://cplog.xyz/globonews.png" group-title="CANAIS | NOTICIAS",GLOBO NEWS FHD
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS FHD" tvg-logo="https://i.imgur.com/3yZyaCm.png" group-title="CANAIS | NOTICIAS",GLOBO NEWS FHD
 http://1468.srvsh.xyz:80/paulovitor826648/656383052/16155
 
-#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS HD" tvg-logo="http://cplog.xyz/globonews.png" group-title="CANAIS | NOTICIAS",GLOBO NEWS HD
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS HD" tvg-logo="https://i.imgur.com/3yZyaCm.png" group-title="CANAIS | NOTICIAS",GLOBO NEWS HD
 http://1468.srvsh.xyz:80/paulovitor826648/656383052/14769
 
-#EXTINF:-1 tvg-id="nhk.br" tvg-name="NHK HD" tvg-logo="http://cplog.xyz/nhk.png" group-title="CANAIS | NOTICIAS",NHK HD
+#EXTINF:-1 tvg-id="nhk.br" tvg-name="NHK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="CANAIS | NOTICIAS",NHK HD
 http://1468.srvsh.xyz:80/paulovitor826648/656383052/30702
 
-#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS (HLS)" tvg-logo="http://cplog.xyz/recordnews.png" group-title="CANAIS | NOTICIAS",RECORD NEWS (HLS)
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS (HLS)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="CANAIS | NOTICIAS",RECORD NEWS (HLS)
 http://1468.srvsh.xyz:80/paulovitor826648/656383052/98988
 
-#EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD NEWS FHD" tvg-logo="http://cplog.xyz/recordnews.png" group-title="CANAIS | NOTICIAS",RECORD NEWS FHD
+#EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD NEWS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="CANAIS | NOTICIAS",RECORD NEWS FHD
 http://1468.srvsh.xyz:80/paulovitor826648/656383052/91520
 
-#EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD NEWS HD" tvg-logo="http://cplog.xyz/recordnews.png" group-title="CANAIS | NOTICIAS",RECORD NEWS HD
+#EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="CANAIS | NOTICIAS",RECORD NEWS HD
 http://1468.srvsh.xyz:80/paulovitor826648/656383052/90959
 
-#EXTINF:-1 tvg-id=	RecordTV São Paulo HD	 tvg-name=	RECORD TV SP HD	 tvg-logo=	http://ccdnblck.xyz:80/images/b23c658b46fae6ef8e694cd4983d8e3e.png	 group-title="CANAIS | RECORD",RECORD TV SP HD
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="RECORD SP HD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/rede-record-logo-png-3.png" group-title="CANAIS | RECORD",RECORD SP HD
 http://uva.bccdn.xyz:80/nossoteste/Trevizam231090/726
 
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD SP HD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/rede-record-logo-png-3.png" group-title="CANAIS | RECORD",RECORD SP HD
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="RECORD SP HD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/rede-record-logo-png-3.png" group-title="CANAIS | RECORD",RECORD SP HD
 http://1468.srvsh.xyz:80/paulovitor826648/656383052/14695
 
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD SP HD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/rede-record-logo-png-3.png" group-title="CANAIS | RECORD",RECORD SP HD
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="RECORD SP HD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/rede-record-logo-png-3.png" group-title="CANAIS | RECORD",RECORD SP HD
 http://1468.srvsh.xyz:80/paulovitor826648/656383052/90973
 
-#EXTINF:-1 tvg-id="" tvg-name="RECORD SP (HLS)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/rede-record-logo-png-3.png" group-title="CANAIS | RECORD",RECORD SP (HLS)
-http://1468.srvsh.xyz:80/paulovitor826648/656383052/98990
-
-#EXTINF:-1 tvg-id="" tvg-name="RECORD SP FHD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/rede-record-logo-png-3.png" group-title="CANAIS | RECORD",RECORD SP FHD
-http://1468.srvsh.xyz:80/paulovitor826648/656383052/103837
-
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD SP FHD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/rede-record-logo-png-3.png" group-title="CANAIS | RECORD",RECORD SP FHD
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="RECORD SP FHD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/rede-record-logo-png-3.png" group-title="CANAIS | RECORD",RECORD SP FHD
 http://1468.srvsh.xyz:80/paulovitor826648/656383052/42957
 
-#EXTINF:-1 tvg-id="record.rio.br" tvg-name="RECORD RJ HD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/rede-record-logo-png-3.png" group-title="CANAIS | RECORD",RECORD RJ HD
+#EXTINF:-1 tvg-id="RecordTVRio.br" tvg-name="RECORD RJ HD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/rede-record-logo-png-3.png" group-title="CANAIS | RECORD",RECORD RJ HD
 http://1468.srvsh.xyz:80/paulovitor826648/656383052/38906
 
-#EXTINF:-1 tvg-id="record.rio.br" tvg-name="RECORD RJ HD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/rede-record-logo-png-3.png" group-title="CANAIS | RECORD",RECORD RJ HD
+#EXTINF:-1 tvg-id="RecordTVRio.br" tvg-name="RECORD RJ HD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/rede-record-logo-png-3.png" group-title="CANAIS | RECORD",RECORD RJ HD
 http://1468.srvsh.xyz:80/paulovitor826648/656383052/90972
 
 #EXTINF:-1 tvg-id="record.florianopolis.br" tvg-name="RECORD SC HD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/rede-record-logo-png-3.png" group-title="CANAIS | RECORD",RECORD SC HD
 http://1468.srvsh.xyz:80/paulovitor826648/656383052/99983
+
+#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP HD" tvg-logo="http://power-conect.tech:80/images/d3e31ea3ed8fa10abfad0c0f93f144be.png" group-title="CANAIS | SBT",SBT SP HD
+http://uva.bccdn.xyz:80/nossoteste/Trevizam231090/429
+
+#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP FHD" tvg-logo="http://power-conect.tech:80/images/d3e31ea3ed8fa10abfad0c0f93f144be.png" group-title="CANAIS | SBT",SBT SP FHD
+http://1468.srvsh.xyz:80/paulovitor826648/656383052/90526
+
+#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP HD" tvg-logo="http://power-conect.tech:80/images/d3e31ea3ed8fa10abfad0c0f93f144be.png" group-title="CANAIS | SBT",SBT SP HD
+http://1468.srvsh.xyz:80/paulovitor826648/656383052/90907
+
+#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RJ HD" tvg-logo="http://power-conect.tech:80/images/d3e31ea3ed8fa10abfad0c0f93f144be.png" group-title="CANAIS | SBT",SBT RJ HD
+http://uva.bccdn.xyz:80/nossoteste/Trevizam231090/367
+
+#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RJ HD" tvg-logo="http://power-conect.tech:80/images/d3e31ea3ed8fa10abfad0c0f93f144be.png" group-title="CANAIS | SBT",SBT RJ HD
+http://1468.srvsh.xyz:80/paulovitor826648/656383052/70535
+
+#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RJ FHD" tvg-logo="http://power-conect.tech:80/images/d3e31ea3ed8fa10abfad0c0f93f144be.png" group-title="CANAIS | SBT",SBT RJ FHD
+http://1468.srvsh.xyz:80/paulovitor826648/656383052/90530
 
 #EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://cplog.xyz/discovery.png" group-title="CANAIS | DOCUMENTÁRIO",DISCOVERY CHANNEL HD
 http://1468.srvsh.xyz:80/paulovitor826648/656383052/90599
@@ -665,24 +675,6 @@ http://uva.bccdn.xyz:80/nossoteste/Trevizam231090/63866
 
 #EXTINF:-1 tvg-id="" tvg-name="ISTV HD" tvg-logo="http://ccdnblck.xyz:80/images/05ebe029feb170745762c5c605493d57.png" group-title="CANAIS | ABERTOS",ISTV HD
 http://uva.bccdn.xyz:80/nossoteste/Trevizam231090/31746
-
-#EXTINF:-1 tvg-id=sbt.sao.paulo.br tvg-name=SBT SP HD tvg-logo=https://i.imgur.com/xLcleQG.png group-title="CANAIS | SBT",SBT SP HD
-http://uva.bccdn.xyz:80/nossoteste/Trevizam231090/429
-
-#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP FHD" tvg-logo="http://cplog.xyz/sbt.png" group-title="CANAIS | SBT",SBT SP FHD
-http://1468.srvsh.xyz:80/paulovitor826648/656383052/90526
-
-#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP HD" tvg-logo="http://cplog.xyz/sbt.png" group-title="CANAIS | SBT",SBT SP HD
-http://1468.srvsh.xyz:80/paulovitor826648/656383052/90907
-
-#EXTINF:-1 tvg-id=SBT Rio HD tvg-name=SBT RJ HD tvg-logo=https://i.imgur.com/xLcleQG.png group-title="CANAIS | SBT",SBT RJ HD
-http://uva.bccdn.xyz:80/nossoteste/Trevizam231090/367
-
-#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RJ HD" tvg-logo="http://cplog.xyz/sbt.png" group-title="CANAIS | SBT",SBT RJ HD
-http://1468.srvsh.xyz:80/paulovitor826648/656383052/70535
-
-#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RJ FHD" tvg-logo="http://cplog.xyz/sbt.png" group-title="CANAIS | SBT",SBT RJ FHD
-http://1468.srvsh.xyz:80/paulovitor826648/656383052/90530
 
 VIDEOS | SHOW"#EXTINF:-1 tvg-id="band.rio.br" tvg-name="BAND RJ FHD" tvg-logo="http://cplog.xyz/band.png" group-title="CANAIS | ABERTOS",BAND RJ FHD
 http://1468.srvsh.xyz:80/paulovitor826648/656383052/90539
