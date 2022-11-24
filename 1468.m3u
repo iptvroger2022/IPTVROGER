@@ -46,7 +46,7 @@ http://1468.srvsh.xyz:80/paulovitor826648/656383052/27107
 http://1468.srvsh.xyz:80/paulovitor826648/656383052/105414
 
 #EXTINF:-1 tvg-id="bbc.earth.br" tvg-name="BBC WORLD HD tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png
-" group-title="CANAIS | NOTICIAS",BBC WORLD HD
+ group-title=CANAIS | NOTICIAS",BBC WORLD HD
 http://1468.srvsh.xyz:80/paulovitor826648/656383052/105438
 
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL HD" tvg-logo="http://cplog.xyz/cnnbrasil.png" group-title="CANAIS | NOTICIAS",CNN BRASIL HD
@@ -193,31 +193,37 @@ http://1468.srvsh.xyz:80/paulovitor826648/656383052/90589
 #EXTINF:-1 tvg-id="" tvg-name="TVIDEO NEWS HD (P)" tvg-logo="http://cplog.xyz/tvideonews.jpg" group-title="CANAIS | DOCUMENTÁRIO",TVIDEO NEWS HD (P)
 https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ENTRETENDO FILMES" tvg-logo="https://i.imgur.com/5zjmhXY.png" group-title="CANAIS  | FILMES E SERIES",ENTRETENDO FILMES
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENDO FILMES" tvg-logo="https://i.imgur.com/5zjmhXY.png" group-title="WEB  | FILMES E SERIES",ENTRETENDO FILMES
 http://uva.bccdn.xyz:80/nossoteste/Trevizam231090/63864
 
-#EXTINF:-1 tvg-id="" tvg-name="BONS TEMPOS TV" tvg-logo="https://i.imgur.com/CDUhqE9.png" group-title="CANAIS  | FILMES E SERIES",BONS TEMPOS TV
+#EXTINF:-1 tvg-id="" tvg-name="BONS TEMPOS TV" tvg-logo="https://i.imgur.com/CDUhqE9.png" group-title="WEB  | FILMES E SERIES",BONS TEMPOS TV
 http://uva.bccdn.xyz:80/nossoteste/Trevizam231090/80161
 
-#EXTINF:-1 tvg-id="" tvg-name="BORA FILMES" tvg-logo="https://i.imgur.com/XEL5noc.png" group-title="CANAIS  | FILMES E SERIES",BORA FILMES
+#EXTINF:-1 tvg-id="" tvg-name="BORA FILMES" tvg-logo="https://i.imgur.com/XEL5noc.png" group-title="WEB  | FILMES E SERIES",BORA FILMES
 http://uva.bccdn.xyz:80/nossoteste/Trevizam231090/63052
 
-#EXTINF:-1 tvg-id="" tvg-name="TV CINE ENTRETENDIMENTO" tvg-logo="https://i.imgur.com/SnMFUZ6.png" group-title="CANAIS  | FILMES E SERIES",TV CINE ENTRETENDIMENTO
+#EXTINF:-1 tvg-id="" tvg-name="TV CINE ENTRETENDIMENTO" tvg-logo="https://i.imgur.com/SnMFUZ6.png" group-title="WEB  | FILMES E SERIES",TV CINE ENTRETENDIMENTO
 http://uva.bccdn.xyz:80/nossoteste/Trevizam231090/60183
 
-#EXTINF:-1 tvg-id="" tvg-name="URBAN MOVIES HD" tvg-logo="https://i.imgur.com/kZvQPRx.png" group-title="CANAIS  | FILMES E SERIES",URBAN MOVIES HD
+#EXTINF:-1 tvg-id="" tvg-name="URBAN MOVIES HD" tvg-logo="https://i.imgur.com/kZvQPRx.png" group-title="WEB  | FILMES E SERIES",URBAN MOVIES HD
 http://uva.bccdn.xyz:80/nossoteste/Trevizam231090/67256
 
-#EXTINF:-1 tvg-id="" tvg-name="URBAN SERIES HD" tvg-logo="https://i.imgur.com/QQPZ8Gp.png" group-title="CANAIS  | FILMES E SERIES",URBAN SERIES HD
+#EXTINF:-1 tvg-id="" tvg-name="URBAN SERIES HD" tvg-logo="https://i.imgur.com/QQPZ8Gp.png" group-title="WEB  | FILMES E SERIES",URBAN SERIES HD
 http://uva.bccdn.xyz:80/nossoteste/Trevizam231090/67255
 
-#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES FHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/TNTSERIESUHDEHDLG.png" group-title="CANAIS | FILMES E SÉRIES",TNT SERIES FHD
-http://1468.srvsh.xyz:80/paulovitor826648/656383052/16137
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES HD" tvg-logo="https://1.bp.blogspot.com/-S7RFmA_w17s/XRe6xpCvLpI/AAAAAAABWng/bjnhzZsev3MN8zrjmvEvMFIKVtiEJHbUACLcBGAs/s1600/TNTSeries_Color_POR_Hor.jpg" group-title="CANAIS | FILMES E SÉRIES",TNT SERIES HD
+http://170.82.200.38:8080/tnt_series/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/TNTSERIESUHDEHDLG.png" group-title="CANAIS | FILMES E SÉRIES",TNT SERIES HD
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES HD" tvg-logo="https://1.bp.blogspot.com/-S7RFmA_w17s/XRe6xpCvLpI/AAAAAAABWng/bjnhzZsev3MN8zrjmvEvMFIKVtiEJHbUACLcBGAs/s1600/TNTSeries_Color_POR_Hor.jpg" group-title="CANAIS | FILMES E SÉRIES",TNT SERIES HD
+http://189.91.128.146:4444/udp/227.10.20.110:1234
+
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES HD" tvg-logo="https://1.bp.blogspot.com/-S7RFmA_w17s/XRe6xpCvLpI/AAAAAAABWng/bjnhzZsev3MN8zrjmvEvMFIKVtiEJHbUACLcBGAs/s1600/TNTSeries_Color_POR_Hor.jpg" group-title="CANAIS | FILMES E SÉRIES",TNT SERIES HD
 http://1468.srvsh.xyz:80/paulovitor826648/656383052/14651
 
-#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SÉRIES HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/TNTSERIESUHDEHDLG.png" group-title="CANAIS | FILMES E SÉRIES",TNT SÉRIES HD
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES FHD" tvg-logo="https://1.bp.blogspot.com/-S7RFmA_w17s/XRe6xpCvLpI/AAAAAAABWng/bjnhzZsev3MN8zrjmvEvMFIKVtiEJHbUACLcBGAs/s1600/TNTSeries_Color_POR_Hor.jpg" group-title="CANAIS | FILMES E SÉRIES",TNT SERIES FHD
+http://1468.srvsh.xyz:80/paulovitor826648/656383052/16137
+
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SÉRIES HD" tvg-logo="https://1.bp.blogspot.com/-S7RFmA_w17s/XRe6xpCvLpI/AAAAAAABWng/bjnhzZsev3MN8zrjmvEvMFIKVtiEJHbUACLcBGAs/s1600/TNTSeries_Color_POR_Hor.jpg" group-title="CANAIS | FILMES E SÉRIES",TNT SÉRIES HD
 http://1468.srvsh.xyz:80/paulovitor826648/656383052/90712
 
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/canalAeELG.png" group-title="CANAIS | FILMES E SÉRIES",A&E FHD
@@ -2223,3 +2229,4 @@ http://1468.srvsh.xyz:80/paulovitor826648/656383052/137373
 
 #EXTINF:-1 tvg-id="" tvg-name="SERTANEJO 24HRS" tvg-logo="https://tinyurl.com/5bsde5y6" group-title="CANAIS | CLIPES",SERTANEJO 24HRS
 http://1468.srvsh.xyz:80/paulovitor826648/656383052/137343
+
