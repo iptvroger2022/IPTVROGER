@@ -1,5 +1,9 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz, https://i.mjh.nz/PlutoTV/all.xml.gz,http://1468.srvsh.xyz:80/xmltv.php?username=paulovitor826648&password=656383052&type=m3u"
 
+#EXT-X-VERSION:3
+
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+
 #EXTINF:-1 tvg-id="Vazio.br" tvg-name="JOGOS DO DIA" tvg-logo="https://cdn-icons-png.flaticon.com/512/14/14405.png" group-title="EVENTOS DO DIA",JOGOS DO DIA
 http://conexaoonline.top:80/3491696680/Guga902021/260711
 
