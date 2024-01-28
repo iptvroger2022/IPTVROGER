@@ -1,0 +1,845 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz","https://i.mjh.nz/PlutoTV/all.xml.gz","http://1468.srvsh.xyz:80/xmltv.php?username=paulovitor826648&password=656383052&type=m3u","http://bccdn.xyz:80/xmltv.php?username=30n0ue8i&password=39qkdffs&type=m3u"
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36
+x-requested-with: XMLHttpRequest  bqqlizag/newLife@3014
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Eio4iTy.png" group-title="Desenhos 24 Horas",Familia Dinossauro
+http://propdsrv.com/live/bqqlizag/newLife@3014/78486.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/o7wF2uD.png" group-title="Desenhos 24 Horas",Hercules 24HRS
+http://infra.piglo.re/live/597549710020925/213258539979/53988.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CXMXN8h.png" group-title="Desenhos 24 Horas",Super Choque 24HRS
+http://infra.piglo.re/live/597549710020925/213258539979/54043.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zz6K3Oi.png" group-title="Séries 24 Horas",Eu a Patroa e as Crianças 24HRS (1)
+http://infra.piglo.re/live/597549710020925/213258539979/53969.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/REg2ziX.jpg" group-title="Séries 24 Horas",Eu a Patroa e as Crianças 24HRS (2)
+http://infra.piglo.re/live/597549710020925/213258539979/53970.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gYueEqh.png" group-title="Séries 24 Horas",ALF o ETeimoso
+http://propdsrv.com/live/bqqlizag/newLife@3014/75599.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yYz85mb.png" group-title="Séries 24 Horas",Arnold
+http://p2flix.com.br:80/live/343963665/370954400/23310.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PHiEB8b.png" group-title="Séries 24 Horas",As Visões da Raven
+http://infra.piglo.re/live/597549710020925/213258539979/53916.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hJiEBQU.png" group-title="Programas 24 Horas",Casseta & Planeta
+http://p2flix.com.br:80/live/343963665/370954400/166908.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pYDrUlg.png" group-title="Desenhos 24 Horas",TV Colosso 24H
+http://tv.urllista.com/live/wG4qnAymJM/duoiptv/91765.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WVmHJkK.png" group-title="Séries 24 Horas",A Vida e Aventuras de Juniper Lee
+http://dns.acaidopara.net:8080/live/alceuandrade/56as456s56x/60302.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WVmHJkK.png" group-title="Séries 24 Horas",A Vida e Aventuras de Juniper Lee
+http://dns.acaidopara.net:8080/live/aqDJOO7cdR/vf3LW1yFFc/60302.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iGzAgov.png" group-title="Séries 24 Horas",Anos Incríveis 24HS
+http://propdsrv.com/live/bqqlizag/newLife@3014/77211.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/n4PkDjS.png" group-title="Séries 24 Horas",Anos Incríveis 24HS
+http://tv.urllista.com/live/wG4qnAymJM/duoiptv/91648.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes 24 Horas",Cinema Artes Marciais 24HS
+http://combative.balans13.xyz:50750/live/5kkxmzL8LXuv/nkuqaeQHmfFh/110901.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/filmRiseSeries_BR_circle_476x476.png" group-title="Filmes/Séries",FilmRise Séries Gratuitas
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_filmrisefreeseries_001.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musicas",Concert Channel
+http://combative.balans13.xyz:50750/live/5kkxmzL8LXuv/nkuqaeQHmfFh/111058.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2e1LWXE.jpg" group-title="Meus Videos",Hemult Lotti - Latino
+https://archive.org/download/helmut-lotti-latino/Helmut%20Lotti%20-%20Latino.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YJohVyW.jpg" group-title="Meus Videos",Helmut Lotti - Pop Classics in Symphony
+https://archive.org/download/helmut-lotti-pop-classics-in-symphony/Helmut%20Lotti%20-%20Pop%20Classics%20in%20Symphony.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OnAAa3p.png" group-title="Meus Videos",Helmut Lotti - Out of Africa
+https://archive.org/download/helmut-lotti-out-of-africa/Helmut%20Lotti%20-%20Out%20of%20Africa.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O2mtUsv.png" group-title="Meus Videos",Helmut Lotti - From Russia
+https://archive.org/download/helmut-lotti-in-russia/Helmut%20Lotti%20In%20Russia.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/stVI4li.png" group-title="Meus Videos",Cirque Du Soleil - Quidam
+https://archive.org/download/cir-qu/CIR-QU.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Bwpgh6O.png" group-title="Meus Videos",Cirque Du Soleil - Alegria 2001
+https://archive.org/download/cirquedusoleil-alegria/Alegr%C3%ADa%20-%202001.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EEfnoev.png" group-title="Meus Videos",Guru do Amor (Filme)
+https://archive.org/download/filme-guru-do-amor/Filme%20Guru%20do%20Amor.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7Rz6cfU.png" group-title="Meus Videos",Across The Universe 2007
+https://archive.org/download/across-2007/Across2007.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eGcUl2m.png" group-title="Meus Videos",Forrest Gump Filme 1994
+https://archive.org/download/forrest-gump-o-contador-de-historias-1994-720p-i/Forrest%20Gump%20O%20Contador%20De%20Hist%C3%B3rias%201994%20720pI.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/40Du0JI.png" group-title="Meus Videos",Michael Flatley - Lord Of The Dance
+https://archive.org/download/lord-of-the-dance-feet-of-flames/Lord%20Of%20The%20Dance%20-%20Feet%20Of%20Flames.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8SCK6el.png" group-title="Meus Videos",Yanni Live At The Acropolis 1994
+https://archive.org/download/yanni.-live.-at.-the.-acropolis.-1994.-dvdrip.-look/Yanni.Live.At.The.Acropolis.1994.DVDRip.LOOK.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WoxzeiI.png" group-title="Meus Videos",Maksim - The Piano Player
+https://archive.org/download/maksim-o-piano-jogador/Maksim%20-%20The%20Piano%20Player.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6ufaktf.png" group-title="Meus Videos",Libera - Angel Voices in Concert - 2007
+https://archive.org/download/libera-anjo-vozes-em-show-2007-dvdrip-xvid-xvid/Libera%20-%20Angel%20Voices%20in%20Concert%20-%202007%20DVDrip%20Xvid_xvid.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://cplog.xyz/tvideonews.jpg" group-title="Documentários",TVIDEO NEWS HD (P)
+https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="JPNews.br" tvg-logo="https://i.imgur.com/kSlP3tD.png" group-title="Notícias",JOVEM PAN NEWS HD (cloudfront-1)
+http://d9tard1jbwri9.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JPNews.br" tvg-logo="https://i.imgur.com/kSlP3tD.png" group-title="Política",JOVEM PAN NEWS HD (cloudfront-2)
+https://d6yfbj4xxtrod.cloudfront.net:443/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+
+#EXTINF:-1 tvg-id="JPNews.br" tvg-logo="https://i.imgur.com/kSlP3tD.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Política",JOVEM PAN NEWS HD (smattv)
+http://smattv.eatuo.com:25461/live/001a79341b96/001a79341b96/433.m3u8
+
+#EXTINF:-1 tvg-id="JPNews.br" userAgent="Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36" tvg-logo="https://i.imgur.com/kSlP3tD.png" group-title="Política",JOVEM PAN NEWS HD (youtube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/@jovempannews/live
+
+#EXTINF:-1 tvg-id="JPNews.br" tvg-logo="https://i.imgur.com/kSlP3tD.png" group-title="Política",JOVEM PAN NEWS HD (youtube)
+https://q-s-l4n3sh4d0w-usw.onrender.com/iptv-query?streaming-ip=https://www.youtube.com/c/@jovempannews/live
+
+#EXTINF:-1 tvg-id="bolsonaro" tvg-logo="https://i.imgur.com/7Rm3uCn.png" group-title="Política",AVANÇA BRASIL (Bolsonaro)
+https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/opTW9Jb.png" group-title="Política",4 POR 4
+https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/DQIMQ18.png" group-title="Política",TV FLORIDA (DIREITA)
+https://srv1.zcast.com.br/tvflorida/tvflorida/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mundotv" tvg-logo="https://i.imgur.com/wu3dFCt.png" group-title="Política",REDE MUNDO TV
+https://video01.logicahost.com.br/mundotvbrasil/mundotvbrasil/chunklist_w743817889.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FY0cQZd.png" group-title="Política",US BRASIL TV (POLITICA)
+https://5a2b083e9f360.streamlock.net/usbrasiltv/usbrasiltv.sdp/chunklist_w1408705485.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/qU5Fd0B.png" site="https://vv8.tv.br/" group-title="Política", VV8 TV
+https://video01.kshost.com.br:4443/seap8272/seap8272/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/1ooSgDW.png" group-title="Política",TV ALAGONET
+https://stmv2.voxtvhd.com.br/alagonet/alagonet/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/p9h8NeL.png" group-title="Política",TV PONTA DO SEIXAS
+https://livefocamundo.com:8081/tvpontadoseixascanal9/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="http://www.tvunisantos.com.br/img/logo.png" group-title="Política",TV UNISANTOS
+http://live.cdn.upx.com/7550/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/L1EPUY0.png" group-title="Espírita",TV DIARIO DO SERTÃO
+https://5a2b083e9f360.streamlock.net/pdsertaotv/pdsertaotv.sdp/chunklist_w1456507595.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/vHFNTFa.png" group-title="Espírita",W1 WEBTV
+https://stmv5.samcast.com.br/oscarwagnerdesouza1083/oscarwagnerdesouza1083/chunklist.m3u8?nooXPlay.m3u8
+
+----------------------------------
+
+#EXTINF:-1 tvg-id="bolsonaro" tvg-logo="https://i.imgur.com/G7ZqfAv.png" group-title="Política",TV RADIO BRADO (Bolsonaro)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/@bradoradio/live
+
+#EXTINF:-1 tvg-id="bolsonaro" tvg-logo="https://i.imgur.com/G7ZqfAv.png" group-title="Política",TV RADIO BRADO (Bolsonaro)
+https://q-s-l4n3sh4d0w-usw.onrender.com/iptv-query?streaming-ip=https://www.youtube.com/c/@bradoradio/live
+
+#EXTINF:-1 tvg-id="bolsonaro" tvg-logo="https://i.imgur.com/ETEukSE.png" group-title="Política",FOLHA POLITICA (Bolsonaro)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/@FolhaPoliticaOficial/live
+
+#EXTINF:-1 tvg-id="bolsonaro" tvg-logo="https://i.imgur.com/ETEukSE.png" group-title="Política",FOLHA POLITICA (Bolsonaro)
+https://ythlsgo.onrender.com/channel/UCYiM773ssvNMaBHvaWWeIoQ.m3u8
+
+#EXTINF:-1 tvg-id="bolsonaro" tvg-logo="https://i.imgur.com/pxcjc8t.png" group-title="Política",CANAL HIPOCRITAS
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/@canalhipocritas/live
+
+#EXTINF:-1 tvg-id="bolsonaro" tvg-logo="https://i.imgur.com/pxcjc8t.png" group-title="Política",CANAL HIPOCRITAS
+https://q-s-l4n3sh4d0w-usw.onrender.com/iptv-query?streaming-ip=https://www.youtube.com/c/@canalhipocritas/live
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/EFggFQK.png" group-title="Política",LIVE DIOGO FORJAZ (Bolsonaro)
+https://ythlsgo.onrender.com/channel/UCuGF622vGZjANEh3t0JlrSw.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/Wv34JUL.png" group-title="Política",LIVE REVISTA OESTE
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/@RevistaOeste/live
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/Wv34JUL.png" group-title="Política",LIVE REVISTA OESTE
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCBQAI1ZhurW3nbtJR-gBBZg?f=.m3u8
+
+-----------------------
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QaRxnvw.png" group-title="Musicas",IBIZA GLOBAL TV
+https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/x2yfSgp.png" group-title="Musicas",MCN6 MUSIC CHANNEL
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JaMKETQ.png" group-title="Musicas",UNITV (Universidade)
+http://free.fullspeed.tv/iptv-query?streaming-ip=http://unitvaovivo.ufrgs.br:8080/live.ogg
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JaMKETQ.png" group-title="Musicas",UNITV (Universidade)
+https://q-s-l4n3sh4d0w-usw.onrender.com/iptv-query?streaming-ip=http://unitvaovivo.ufrgs.br:8080/live.ogg
+
+#EXTINF:-1 tvg-id="TV Brasil" tvg-logo="https://i.imgur.com/YsoD4Gq.png" group-title="WEB TV | VARIEDADES",TVBE JOINVILLE HD
+https://5c483b9d1019c.streamlock.net:443/8022/8022/chunklist_w1297242218.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EutyENI.png" group-title="WEB TV | VARIEDADES",TV POVO CIGANO
+https://5c483b9d1019c.streamlock.net:443/8040/8040/chunklist_w1776211134.m3u8
+
+#EXTINF:-1 tvg-id="TV Brasil" tvg-logo="https://i.imgur.com/uta0vo1.png" group-title="WEB TV | VARIEDADES",TV RDC
+https://596639ebdd89b.streamlock.net/datavideo01/datavideo01/playlist.m3u8
+
+#EXTINF:-1 tvg-id="demaistv.br" tvg-logo="https://i.imgur.com/LQ68Btl.png" group-title="WEB TV | VARIEDADES",D+TV
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d14z5zgripclfw.cloudfront.net/account856-i854/channel/6/thumb_LOGO2_24_HORAS_NEWS-01_800x800-1576091914.png" group-title="Notícias",24H NEWS
+https://cdn.connectbr.com.br/24_news/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-3S-sMHHE79a4SGlNOgBkAy0l5RcDooY1Ydb_Z=s176-c-k-c0x00ffffff-no-rj" group-title="Notícias",BM&C News
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/bmcnews/live
+
+#EXTINF:-1 tvg-id="tnt.series.br" userAgent="Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36" tvg-name="TNT SERIES HD" tvg-logo="https://i.imgur.com/5C9JWT8.png" group-title="WEB TV | FILMES E SERIES",TNT SERIES HD (206.1.95)
+http://206.1.95.2:8004/play/a02z
+
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-logo="https://i.imgur.com/5C9JWT8.png" group-title="WEB TV | FILMES E SERIES",TNT SERIES HD (connect)
+http://cdn2.connectbr.com.br:80/TNTSeries/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://listaiptv.gratis/logos/imagens/istv.png" group-title="WEB TV | FILMES E SERIES",ISTV HD 01
+https://alanza.iptv2022.com:443/ISTV_pt-br/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://listaiptv.gratis/logos/imagens/istv.png" group-title="WEB TV | FILMES E SERIES",ISTV HD 02
+https://cdn.jmvstream.com:443/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dafcYQK.png" group-title="WEB TV | FILMES E SERIES",TV GALLO
+https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tKWqmok.png" group-title="WEB TV | FILMES E SERIES",CLC - CINE LIFE CLASSIC 1
+https://alanza.iptv2022.com:443/CLC/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tKWqmok.png" group-title="WEB TV | FILMES E SERIES",CLC - CINE LIFE CLASSIC 2
+http://187.95.95.241:6692/clc/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3QBFMnT.png" group-title="WEB TV | FILMES E SERIES",EXTREMO ORIENTAL TV (Soul TV)
+http://187.95.95.241:7987/soultv/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QA44JuQ.png" group-title="WEB TV | FILMES E SERIES",HITS TV
+https://stmv1.srvstm.com/gilberto6794/gilberto6794/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/eenBdxU.png" group-title="WEB TV | FILMES E SERIES",TV GOITAÇA
+https://video01.kshost.com.br:4443/david7639/david7639/chunklist.m3u8?nooXPlay.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ox8wUYa.png" group-title="WEB TV | FILMES E SERIES",W1 PRODUTORA
+https://stmv7.samcast.com.br/w1produtora/w1produtora/chunklist.m3u8?nooXPlay.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bFrmca2.png" group-title="WEB TV | FILMES E SERIES",CENTRAL TV
+https://alanza.iptv2022.com:443/Central_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bFrmca2.png" group-title="WEB TV | FILMES E SERIES",CENTRAL TV
+https://cdn-centraltv-11366.ciclano.io:1443/centraltv-11366/centraltv-11366/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/82v3pa6.png" group-title="WEB TV | FILMES E SERIES",ENTRETENDO FILMES (Connectbr)
+http://cdn.connectbr.com.br:80/Entretendo/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENDO FILMES" tvg-logo="https://i.imgur.com/82v3pa6.png" group-title="WEB TV | FILMES E SERIES",ENTRETENDO FILMES (bccdn)
+http://uva.bccdn.xyz:80/nossoteste/Trevizam231090/63864
+
+#EXTINF:-1 tvg-id="" tvg-name="BONS TEMPOS TV" tvg-logo="https://i.imgur.com/toFOjh7.png" group-title="WEB TV | FILMES E SERIES",BONS TEMPOS TV (web)
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="TVCarioca.br" tvg-logo="https://i.imgur.com/0X3WhqE.png" group-title="WEB TV | FILMES E SERIES",TV CARIOCA NET
+https://stmv2.duvoxtv.com.br/tvcarioca/tvcarioca/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BORA FILMES" tvg-logo="https://i.imgur.com/2wwjoHt.png" group-title="WEB TV | FILMES E SERIES",BORA FILMES
+http://uva.bccdn.xyz:80/nossoteste/Trevizam231090/63052
+
+#EXTINF:-1 tvg-id="" tvg-name="TV CINE ENTRETENDIMENTO" tvg-logo="https://i.imgur.com/3mqIrzo.png" group-title="WEB TV | FILMES E SERIES",TV CINE ENTRETENDIMENTO
+http://uva.bccdn.xyz:80/nossoteste/Trevizam231090/60183
+
+#EXTINF:-1 tvg-id="REDE CLONE TV (Desenhos e Series)" tvg-logo="https://i.imgur.com/yc1CsuG.png" group-title="WEB TV | FILMES E SERIES", REDE CLONE TV (Desenhos e Series)
+https://srv5.zcast.com.br/redeclonetv/redeclonetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="VINTAGE TV" tvg-logo="https://i.imgur.com/kNwiIx6.png" group-title="WEB TV | FILMES E SERIES",VINTAGE TV
+https://stmv1.srvif.com/webvintage/webvintage/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AWTV" tvg-logo="https://i.imgur.com/XMfCmbK.png" group-title="WEB TV | FILMES E SERIES",AWTV
+https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV SAN JONES" tvg-logo="https://i.imgur.com/uMw91a9.png" group-title="WEB TV | FILMES E SERIES",TV SAN JONES
+https://video01.kshost.com.br:4443/marilia2344/marilia2344/chunklist.m3u8?nooXPlay.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV NAZARE" tvg-logo="https://i.imgur.com/PJtfL5e.png" group-title="WEB TV | FILMES E SERIES",TV NAZARE
+https://stmv1.srvif.com/tvnaza/tvnaza/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="UNI TV BURITAMA" tvg-logo="https://i.imgur.com/ZqpfueL.png" group-title="WEB TV | FILMES E SERIES",UNI TV BURITAMA
+https://stmv1.srvif.com/unifm/unifm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV QUE DEMAIS QDM" tvg-logo="https://i.imgur.com/xPSsyrM.png" group-title="WEB TV | FILMES E SERIES",TV QUE DEMAIS QDM
+https://alanza.iptv2022.com/REDE_QDM/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV SAN JONES" tvg-logo="https://i.imgur.com/uMw91a9.png" group-title="WEB TV | FILMES E SERIES",TV SAN JONES
+https://video01.kshost.com.br:4443/marilia2344/marilia2344/chunklist.m3u8?nooXPlay.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV JORNAL DO NORDESTE" tvg-logo="https://i.imgur.com/v51UZeD.png" group-title="WEB TV | FILMES E SERIES",TV JORNAL DO NORDESTE
+https://alanza.iptv2022.com:443/TV_JORNAL_DO_NORDESTE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV METEORO" tvg-logo="https://i.imgur.com/gxVo68K.png" group-title="WEB TV | FILMES E SERIES",TV METEORO
+https://5a0c3936c25c8.streamlock.net/8012/8012/chunklist.m3u8?nooXPlay.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV NATAL" tvg-logo="https://i.imgur.com/nxHE4IY.png" group-title="WEB TV | FILMES E SERIES",TV NATAL
+https://stmv1.srvstm.com/antonioflavio9545/antonioflavio9545/chunklist.m3u8?nooXPlay.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV CRIAR" tvg-logo="https://i.imgur.com/JsPtcaN.png" group-title="WEB TV | FILMES E SERIES",TV CRIAR
+https://stmv7.samcast.com.br/sergiosantos6572/sergiosantos6572/chunklist.m3u8?nooXPlay.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV DIVERSIDADE" tvg-logo="https://i.imgur.com/CvFYyym.png" group-title="WEB TV | FILMES E SERIES",TV DIVERSIDADE
+https://cdn.jmvstream.com/w/AVJ-12077/playlist/chunklist.m3u8?nooXPlay.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV CLÁSSICOS DO CINEMA" tvg-logo="https://i.imgur.com/MP3qRWZ.png" group-title="WEB TV | FILMES E SERIES",TV CLÁSSICOS DO CINEMA
+https://tv01.livemustv.com.br/livemustv7426/livemustv7426/chunklist.m3u8?nooXPlay.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV CIDADE TIRADENTES" tvg-logo="https://i.imgur.com/xIhVbYd.png" group-title="WEB TV | FILMES E SERIES",TV CIDADE TIRADENTES
+https://stmv7.samcast.com.br/tvcidadetiradentes/tvcidadetiradentes/chunklist.m3u8?nooXPlay.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="URBAN MOVIES HD" tvg-logo="https://i.imgur.com/aZtG2zJ.png" group-title="WEB TV | FILMES E SERIES",URBAN MOVIES HD
+http://uva.bccdn.xyz:80/nossoteste/Trevizam231090/67256
+
+#EXTINF:-1 tvg-id="" tvg-name="URBAN MOVIES HD" tvg-logo="https://i.imgur.com/aZtG2zJ.png" group-title="WEB TV | FILMES E SERIES",URBAN MOVIES HD
+https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="URBAN SERIES HD" tvg-logo="https://i.imgur.com/CbBdiO0.png" group-title="WEB TV | FILMES E SERIES",URBAN SERIES HD
+http://uva.bccdn.xyz:80/nossoteste/Trevizam231090/67255
+
+#EXTINF:-1 tvg-id="" tvg-name="URBAN SERIES HD" tvg-logo="https://i.imgur.com/CbBdiO0.png" group-title="WEB TV | FILMES E SERIES",URBAN SERIES HD
+https://5ad482a77183d.streamlock.net/urbantvseriesgmail.com/urbantvseriesgmail.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="URBAN RETRO HD" tvg-logo="https://i.imgur.com/PolsTY6.png" group-title="WEB TV | FILMES E SERIES",URBAN RETRO HD
+http://se7eup.com/live/fabricio9181/559181355485/415.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="URBAN TURBO" tvg-logo="https://i.imgur.com/h6iSB6b.png" group-title="Documentários",URBAN TURBO
+https://5ad482a77183d.streamlock.net/urbantvturbogmail.com/urbantvturbogmail.com/playlist.m3u8
+
+#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://i.imgur.com/u324Lf2.png" group-title="Documentários",DE PRIMA (Esportes)
+https://stmv2.samcast.com.br/deprima/deprima/chunklist_w82138880.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL HITS" tvg-logo="https://i.imgur.com/mMJwgYy.png" group-title="WEB TV | FILMES E SERIES",TV BRASIL HITS
+https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w1407789719.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV RECORDAÇÕES" tvg-logo="https://i.imgur.com/r0JQusl.png" group-title="WEB TV | FILMES E SERIES",TV RECORDAÇÕES
+https://srv4.zcast.com.br/tvrecordacoeswebce/tvrecordacoeswebce/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/r0JQusl.png" group-title="WEB TV | FILMES E SERIES",TV CSN (FILMES & SERIES)
+https://acesso.ecast.site:3613/live/csnlive.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="TELA VIVA" tvg-logo="https://i.imgur.com/8tGyM14.png" group-title="WEB TV | FILMES E SERIES",TELA VIVA
+https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 29 SERIES" tvg-logo="https://i.imgur.com/Upl9FzP.png" group-title="WEB TV | FILMES E SERIES",CANAL 29 SERIES (1)
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 29 SERIES" tvg-logo="https://i.imgur.com/Upl9FzP.png" group-title="WEB TV | FILMES E SERIES",CANAL 29 SERIES (2)
+https://alanza.iptv2022.com:443/CANAL_29/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="BLITS TV" tvg-logo="https://imgur.com/ipKpPCe.png" group-title="WEB TV | FILMES E SERIES",BLITS TV
+https://alanza.iptv2022.com:443/BLITS_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HELLO TV" tvg-logo="https://i.imgur.com/W6zXa62.png" group-title="WEB TV | FILMES E SERIES",HELLO TV
+http://cdn.connectbr.com.br:80/Hello/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NOVA PLAY FILMES E SERIES" tvg-logo="https://i.imgur.com/NySCl8p.png" group-title="WEB TV | FILMES E SERIES",NOVA PLAY FILMES E SERIES
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w2132402810.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NOVA PLAY FILMES E SERIES" tvg-logo="https://i.imgur.com/NySCl8p.png" group-title="WEB TV | FILMES E SERIES",NOVA PLAY FILMES E SERIES
+http://uva.bccdn.xyz:80/nossoteste/Trevizam231090/60181
+
+#EXTINF:-1 tvg-id="" tvg-name="TV MANCHETE (MURILO)" tvg-logo="https://i.imgur.com/9qyUITp.png" group-title="WEB TV | FILMES E SERIES",TV MANCHETE (MURILO)
+https://video01.kshost.com.br:4443/murilo9207/murilo9207/chunklist_w1166452548.m3u8
+
+#EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="REDE BRASIL OESTE" tvg-logo="https://i.imgur.com/kpNJwWl.png" group-title="WEB TV | FILMES E SERIES",REDE BRASIL OESTE
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="KURIAKOS CINE" tvg-logo="https://i.imgur.com/8Olge2F.png" group-title="WEB TV | FILMES E SERIES",KURIAKOS CINE
+https://w2.manasat.com/kcine/smil:kcine.smil/chunklist_w579195879_b1548000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="GhostTV.br" tvg-name="GHOST TV" tvg-logo="https://i.imgur.com/fhDRYZs.png" group-title="WEB TV | FILMES E SERIES",GHOST TV
+https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/A5hDych.png" group-title="Espírita",TV Mundo Maior (Espirita)
+https://ythls.onrender.com/channel/UC5-IOBnk-mFdQgKS-niajYg.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="TV ESPIRITA PARANA (rodney)" tvg-logo="https://i.imgur.com/E0QnJO2.png" group-title="Espírita",TV ESPIRITA PARANA (rodney)
+https://srv4.zcast.com.br/rodney2576/rodney2576/media_w11396038_177845.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/tfkayC5.png" group-title="Espírita",BCC TV
+https://video01.kshost.com.br/bccinternational523/bccinternational523/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv.brasil.br" tvg-logo="https://i.imgur.com/BxsEVkh.png" group-title="Abertos",TV BRASIL (TV AMERICA)
+https://cdn.jmvstream.com/w/AVJ-9818/playlist/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv.brasil.br" tvg-logo="https://i.imgur.com/32MWd71.png" group-title="Abertos",TV BRASIL CENTRAL (Goiania)
+https://tbc.zoeweb.tv:443/tbc/tbc/chunklist.m3u8
+
+=============================================================================
+
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/9/1561187089.jpg" group-title="Relax",Cinemix Radio
+http://kathy.torontocast.com:1190
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WPO92xM.png" group-title="Relax",Radio Celinda Rumbo Deportivo Señal 2
+http://131.221.33.235:9994/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xqfihBO.png" group-title="Relax",Jazzy 103.com
+http://173.192.207.51:7017/
+
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1553666246.jpg" group-title="Relax",Streaming Soundtracks
+http://162.213.197.54:80
+
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1552392752.jpg" group-title="Relax",SomaFM Soundtrack
+http://ice1.somafm.com/secretagent-128-mp3
+
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1537528414.jpg" group-title="Relax",RMF Muzyka Filmowa (1)
+http://rs8-krk2.rmfstream.pl/MUZYKAFILMOWA
+
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1537528414.jpg" group-title="Relax",RMF Muzyka Filmowa (2)
+http://rs6-krk2-cyfronet.rmfstream.pl/rmf_muzyka_filmowa
+
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1572700076.jpg" group-title="Relax",HorrorAndHalloweenRadio
+http://s2.voscast.com:11034/stream/1/
+
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1559957920.jpg" group-title="Relax",Radio Regenbogen Musical Filmhits
+http://streams.regenbogen.de/rr-musical-128-mp3
+
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/5/1560913565.jpg" group-title="Relax",Kungaloosh Radio
+http://192.184.9.158:8511/
+
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/5/1552224195.jpg" group-title="Relax",GotRadio - The Big Score
+http://gr02.cdnstream.com:8060/
+
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1549968954.jpg" group-title="Relax",Radio Domeldo Movie
+http://185.105.4.53:3006/stream/1/
+
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/4855.jpg" group-title="Relax",FFH Soundtrack
+http://mp3.ffh.de/ffhchannels/hqsoundtrack.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6dI02ij.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Musicas",CLASSIC ARTS SHOWCASE
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master_720p30.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6dI02ij.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Musicas",CLASSIC ARTS SHOWCASE
+http://playnetpb.xyz/live/101929107/526716637/71279.m3u8
+
+#EXTINF:-1 tvg-id="StingrayBrava.fr" tvg-logo="https://i.imgur.com/6dI02ij.png" group-title="Musicas",STINGRAY MUSICA CLASSICA
+https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
+
+#EXTINF:-1 tvg-id="StingrayBrava.fr" tvg-logo="https://i.imgur.com/6dI02ij.png" group-title="Musicas",MUSICA CLASSICA (boxtv)
+http://boxtv.uniredes.com.br:8880/live/jonas/jonas/36.m3u8
+
+#EXTINF:-1 tvg-id="Classica.eu" tvg-logo="https://i.imgur.com/7E8gPlP.png" group-title="Musicas",CLASSICA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f779951372da90007fd45e8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/RFHuD4Y.png" group-title="MUSICA",VIVALDI
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01297-themahqfranceme-vivalditv-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=VeRRLspvSX7Z8bzwMLKr&channelId=61bb9a63e0b39cfe304c9a8a
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FUXPoOM.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Musicas",MELODY CHANNEL (ANTI STRESS)
+https://canal.mediaserver.com.co:8088/live/MelodyChannel.m3u8?hls_ctx=51o76200
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hoXCkss.png" group-title="Musicas",ALLEGRO WEB TV
+https://livefocamundo.com:8081/allegrowebtv/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fmlscNv.png" group-title="Musicas",KURIAKOS MUSIC (ANTI STRESS)
+https://alanza.iptv2022.com/KURIAKOS_MUSIC/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musicas",POP MUSIC CHILL
+http://line.crystal-ott.com/live/oeSrnZIZgUl4MGE/07PXAc1lsl/301312.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0cZRfSq.png" group-title="Musicas",HQM CHILL OUT
+https://livelist01.yowi.tv/lista/183a351ddb0e57af6d735256226e6033c32219ab/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musicas",POP MUSIC CLASSIC
+http://line.crystal-ott.com/live/oeSrnZIZgUl4MGE/07PXAc1lsl/499145.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musicas",POP DOMUNT RELAXATION
+http://line.crystal-ott.com/live/oeSrnZIZgUl4MGE/07PXAc1lsl/435525.m3u8
+
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://i.imgur.com/YI0Xndx.png" group-title="Musicas",TRACE URBAN
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8?nooXPlay.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/L1einLi.png" group-title="Musicas",AMBIENT LOUNGE INSIDE
+https://audio8.mixcloud.com/secure/hls/3/4/4/6/b372-e5ca-4ce3-bb7a-9ef4507b5292.m4a/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7nbSWvW.png" group-title="Musicas",MUSIC CAFÉ (BGMC)
+http://tv.redrainl.site:9500/live.m3u8?c=47
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lW5A7LY.png" group-title="Musicas",MEZZO HD (four)
+http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lW5A7LY.png" group-title="Musicas",MEZZO HD (reshort)
+https://reshort.in/autoq.php?c=Mezzo_HD
+
+#EXTINF:-1 tvg-id="Qello" tvg-logo="https://i.imgur.com/glY1kOr.png" group-title="Musicas",QELLO CONCERTS
+https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bwTCgHc.jpg" group-title="Musicas",RADIO PLENITUDE (só audio)
+https://listen.radioking.com/radio/117271/stream/156613#%25#//index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bwTCgHc.jpg" group-title="Musicas",RADIO PLENITUDE (só audio)
+https://www.radioking.com/play/radio-plenitude-relax/playlist.m3u8
+https://listen.radioking.com/radio/117271/stream/156613/playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/95vhuKO.png" group-title="Musicas",CRYSTAL RADIO RECEIVER (só audio)
+https://api.radioking.io/radio/504205/listen.m3u
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/95vhuKO.png" group-title="Musicas",CRYSTAL RADIO RECEIVER (só audio)
+https://www.radioking.com/play/the-ambientscape-project
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qPHAx6B.png" group-title="Musicas",RADIO MONTE CARLO (só audio)
+http://node-28.zeno.fm/953wvvz4gseuv?rj-ttl=5&rj-token=AAABbY9-MzsrHaHXrcDB_KrtUH8sI5PBR4D2RUlFtqd3sm8rr9NVWg
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SaBxuqa.png" group-title="Musicas",RADIO VIBRATION ZEN (só audio)
+https://91.121.38.100:8220/stream/1/
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GHqFVVS.png" group-title="Musicas",RADIO ART NEW AGE (só audio)
+https://91.121.38.100:8220/stream/1/
+
+EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/S8lz5L3.png" group-title="Musicas",CANAL 38 HD
+https://rtmp.info/canal38/envivo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XJ1eL9J.png" group-title="Musicas",I LOVE YOU VENICE - MÚSICA CLÁSSSICA
+http://boxtv.uniredes.com.br/live/leticia/leticia/36.m3u8
+
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://radiocomercial.iol.pt/images/noCover.png",Rádio Comercial By Night
+https://media2.mcr.iol.pt/wrcomercial/rcsoft.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PKkXs8P.png" group-title="Relax",RELAXING WINTERSCAPES
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-winterscapes/24fc5fe7-d03b-43b4-b3ee-987a8c12a4bd/2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2T6caP5.png" group-title="Relax",GoogLe RELAX 1
+http://combative.balans13.xyz:50750/live/5kkxmzL8LXuv/nkuqaeQHmfFh/70048.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2T6caP5.png" group-title="Relax",GoogLe RELAX 2
+http://combative.balans13.xyz:50750/live/5kkxmzL8LXuv/nkuqaeQHmfFh/70049.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2T6caP5.png" group-title="Relax",GoogLe RELAX 3
+http://combative.balans13.xyz:50750/live/5kkxmzL8LXuv/nkuqaeQHmfFh/70050.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2T6caP5.png" group-title="Relax",GoogLe RELAX 4
+http://combative.balans13.xyz:50750/live/5kkxmzL8LXuv/nkuqaeQHmfFh/70051.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2T6caP5.png" group-title="Relax",GoogLe RELAX 5
+http://combative.balans13.xyz:50750/live/5kkxmzL8LXuv/nkuqaeQHmfFh/70052.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2T6caP5.png" group-title="Relax",GoogLe RELAX 6
+http://combative.balans13.xyz:50750/live/5kkxmzL8LXuv/nkuqaeQHmfFh/70053.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2T6caP5.png" group-title="Relax",GoogLe RELAX 7
+http://combative.balans13.xyz:50750/live/5kkxmzL8LXuv/nkuqaeQHmfFh/70054.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2T6caP5.png" group-title="Relax",GoogLe RELAX 8
+http://combative.balans13.xyz:50750/live/5kkxmzL8LXuv/nkuqaeQHmfFh/70055.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2T6caP5.png" group-title="Relax",GoogLe RELAX 9
+http://combative.balans13.xyz:50750/live/5kkxmzL8LXuv/nkuqaeQHmfFh/70056.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2T6caP5.png" group-title="Relax",GoogLe RELAX 10
+http://combative.balans13.xyz:50750/live/5kkxmzL8LXuv/nkuqaeQHmfFh/70057.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2T6caP5.png" group-title="Relax",GoogLe RELAX 11
+http://combative.balans13.xyz:50750/live/5kkxmzL8LXuv/nkuqaeQHmfFh/70058.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2T6caP5.png" group-title="Relax",GoogLe RELAX 12
+http://combative.balans13.xyz:50750/live/5kkxmzL8LXuv/nkuqaeQHmfFh/70059.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2T6caP5.png" group-title="Relax",GoogLe RELAX 13
+http://combative.balans13.xyz:50750/live/5kkxmzL8LXuv/nkuqaeQHmfFh/70060.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2T6caP5.png" group-title="Relax",GoogLe RELAX 14
+http://combative.balans13.xyz:50750/live/5kkxmzL8LXuv/nkuqaeQHmfFh/70061.m3u8
+
+=============================================================================
+
+#EXTINF:-1 tvg-id="DiscoveryChannelBrazil.br" tvg-logo="https://i.imgur.com/LU3vZxh.png" group-title="Documentários",Discovery channel HD
+http://4tv.site:2082/live/2022bia1/11948233329/18215.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannelBrazil.br" tvg-logo="https://i.imgur.com/LU3vZxh.png" group-title="Documentários",Discovery channel HD
+http://1468.srvsh.xyz:80/live/paulovitor826648/656383052/90599.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannelBrazil.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://i.imgur.com
+http://bccdn.xyz:80/live/6899381301892pw/895980942395pw/12.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannelBrazil.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://i.imgur.com
+http://bccdn.xyz:80/live/Bodinho69/246969io/12.m3u8
+
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://i.imgur.com
+http://1468.srvsh.xyz:80/live/roseane3924/3484924367/14852.m3u8
+
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://i.imgur.com
+http://1468.srvsh.xyz:80/live/paulovitor826648/656383052/14852.m3u8
+
+#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://i.imgur.com
+http://1468.srvsh.xyz:80/live/roseane3924/3484924367/14818.m3u8
+
+#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://i.imgur.com
+http://1468.srvsh.xyz:80/live/paulovitor826648/656383052/14818.m3u8
+
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="http://cplog.xyz
+http://1468.srvsh.xyz:80/live/roseane3924/3484924367/90596.m3u8
+
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="http://cplog.xyz
+http://1468.srvsh.xyz:80/live/paulovitor826648/656383052/90596.m3u8
+
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://cplog.xyz
+http://1468.srvsh.xyz:80/live/roseane3924/3484924367/90597.m3u8
+
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://cplog.xyz
+http://1468.srvsh.xyz:80/live/paulovitor826648/656383052/90597.m3u8
+
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://cplog.xyz
+http://1468.srvsh.xyz:80/live/roseane3924/3484924367/90598.m3u8
+
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://cplog.xyz
+http://1468.srvsh.xyz:80/live/paulovitor826648/656383052/90598.m3u8
+
+#EXTINF:-1 tvg-id="History 2" tvg-name="H2 HD" tvg-logo="https://i.imgur.com
+http://cdn.connectbr.com.br/h2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="H2 HD" tvg-logo="https://i.imgur.com
+http://1468.srvsh.xyz:80/live/paulovitor826648/656383052/90594.m3u8
+
+#EXTINF:-1 tvg-id="the.history.br" tvg-name="HISTORY HD" tvg-logo="https://i.imgur.com
+http://1468.srvsh.xyz:80/live/roseane3924/3484924367/14747.m3u8
+
+#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY HD" tvg-logo="https://i.imgur.com
+http://1468.srvsh.xyz:80/live/paulovitor826648/656383052/90592.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="INSPIRE TV" tvg-logo="https://i.imgur.com
+http://uva.bccdn.xyz:80/live/nossoteste/Trevizam231090/63866.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="INSPIRE TV" tvg-logo="https://i.imgur.com
+http://uva.bccdn.xyz:80/live/nossoteste/Trevizam231090/63866.m3u8
+
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID - INVESTIGACAO DISCOVERY HD" tvg-logo="https://i.imgur.com
+http://1468.srvsh.xyz:80/live/roseane3924/3484924367/90593.m3u8
+
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID - INVESTIGACAO DISCOVERY HD" tvg-logo="https://i.imgur.com
+http://1468.srvsh.xyz:80/live/paulovitor826648/656383052/90593.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE HD" tvg-logo="https://i.imgur.com
+http://4f.rs:80/live/6343917/1725473/364993.m3u8
+
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://cplog.xyz
+http://1468.srvsh.xyz:80/live/roseane3924/3484924367/14726.m3u8
+
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://cplog.xyz
+http://1468.srvsh.xyz:80/live/paulovitor826648/656383052/14726.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SMITHSONIAN HD" tvg-logo="https://i.imgur.com
+http://1468.srvsh.xyz:80/live/roseane3924/3484924367/90589.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SMITHSONIAN HD" tvg-logo="https://i.imgur.com
+http://1468.srvsh.xyz:80/live/paulovitor826648/656383052/90589.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsPortugues.fr" tvg-name="EURONEWS PORTUGAL" tvg-logo="https://i.imgur.com/Q2Hmwto.png" group-title="Notícias",EURONEWS PORTUGAL
+https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="WEB | XXX" tvg-logo="https://i.imgur.com/VTzRaLt.png",AdultIPTV.net Anal
+http://cdn.adultiptv.net/anal.m3u8
+
+#EXTINF:-1 group-title="WEB | XXX" tvg-logo="https://i.imgur.com/VTzRaLt.png",AdultIPTV.net Asian
+http://cdn.adultiptv.net/asian.m3u8
+
+#EXTINF:-1 group-title="WEB | XXX" tvg-logo="https://i.imgur.com/VTzRaLt.png",AdultIPTV.net Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+
+#EXTINF:-1 group-title="WEB | XXX" tvg-logo="https://i.imgur.com/VTzRaLt.png",AdultIPTV.net Big Ass
+http://live.redtraffic.xyz/bigass.m3u8
+
+#EXTINF:-1 group-title="WEB | XXX" tvg-logo="https://i.imgur.com/VTzRaLt.png",AdultIPTV.net Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+
+#EXTINF:-1 group-title="WEB | XXX" tvg-logo="https://i.imgur.com/VTzRaLt.png",AdultIPTV.net Big Dick
+http://live.redtraffic.xyz/bigdick.m3u8
+
+#EXTINF:-1 group-title="WEB | XXX" tvg-logo="https://i.imgur.com/VTzRaLt.png",AdultIPTV.net Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8
+
+#EXTINF:-1 group-title="WEB | XXX" tvg-logo="https://i.imgur.com/VTzRaLt.png",AdultIPTV.net Big Tits
+http://live.redtraffic.xyz/bigtits.m3u8
+
+#EXTINF:-1 group-title="WEB | XXX" tvg-logo="https://i.imgur.com/VTzRaLt.png",AdultIPTV.net Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+
+#EXTINF:-1 group-title="WEB | XXX" tvg-logo="https://i.imgur.com/VTzRaLt.png",AdultIPTV.net Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+
+#EXTINF:-1 group-title="WEB | XXX" tvg-logo="https://i.imgur.com/VTzRaLt.png",AdultIPTV.net Blowjob
+http://live.redtraffic.xyz/blowjob.m3u8
+
+#EXTINF:-1 group-title="WEB | XXX" tvg-logo="https://i.imgur.com/VTzRaLt.png",AdultIPTV.net Brunette
+http://cdn.adultiptv.net/brunette.m3u8
+
+#EXTINF:-1 group-title="WEB | XXX" tvg-logo="https://i.imgur.com/VTzRaLt.png",AdultIPTV.net Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+
+#EXTINF:-1 group-title="WEB | XXX" tvg-logo="https://i.imgur.com/VTzRaLt.png",AdultIPTV.net Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8
+
+#EXTINF:-1 group-title="WEB | XXX" tvg-logo="https://i.imgur.com/VTzRaLt.png",AdultIPTV.net Cuckold
+http://live.redtraffic.xyz/cuckold.m3u8
+
+#EXTINF:-1 group-title="WEB | XXX" tvg-logo="https://i.imgur.com/VTzRaLt.png",AdultIPTV.net Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+
+#EXTINF:-1 group-title="WEB | XXX" tvg-logo="https://i.imgur.com/VTzRaLt.png",AdultIPTV.net Fetish
+http://live.redtraffic.xyz/fetish.m3u8
+
+#EXTINF:-1 group-title="WEB | XXX" tvg-logo="https://i.imgur.com/VTzRaLt.png",AdultIPTV.net Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8
+
+#EXTINF:-1 group-title="WEB | XXX" tvg-logo="https://i.imgur.com/VTzRaLt.png",AdultIPTV.net Gangbang
+http://live.redtraffic.net/gangbang.m3u8
+
+#EXTINF:-1 group-title="WEB | XXX" tvg-logo="https://i.imgur.com/VTzRaLt.png",AdultIPTV.net Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+
+#EXTINF:-1 group-title="WEB | XXX" tvg-logo="https://i.imgur.com/VTzRaLt.png",AdultIPTV.net Hardcore
+http://live.redtraffic.xyz/hardcore.m3u8
+
+#EXTINF:-1 group-title="WEB | XXX" tvg-logo="https://i.imgur.com/VTzRaLt.png",AdultIPTV.net Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+
+#EXTINF:-1 group-title="WEB | XXX" tvg-logo="https://i.imgur.com/VTzRaLt.png",AdultIPTV.net Interracial
+http://live.redtraffic.xyz/interracial.m3u8
+
+#EXTINF:-1 group-title="WEB | XXX" tvg-logo="https://i.imgur.com/VTzRaLt.png",AdultIPTV.net Latina
+http://cdn.adultiptv.net/latina.m3u8
+
+#EXTINF:-1 group-title="WEB | XXX" tvg-logo="https://i.imgur.com/VTzRaLt.png",AdultIPTV.net Latina
+http://live.redtraffic.xyz/latina.m3u8
+
+#EXTINF:-1 group-title="WEB | XXX" tvg-logo="https://i.imgur.com/VTzRaLt.png",AdultIPTV.net Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+
+#EXTINF:-1 group-title="WEB | XXX" tvg-logo="https://i.imgur.com/VTzRaLt.png",AdultIPTV.net Lesbian
+http://live.redtraffic.xyz/lesbian.m3u8
+
+#EXTINF:-1 group-title="WEB | XXX" tvg-logo="https://i.imgur.com/VTzRaLt.png",AdultIPTV.net Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
+
+#EXTINF:-1 group-title="WEB | XXX" tvg-logo="https://i.imgur.com/VTzRaLt.png",AdultIPTV.net MILF
+http://cdn.adultiptv.net/milf.m3u8
+
+#EXTINF:-1 group-title="WEB | XXX" tvg-logo="https://i.imgur.com/VTzRaLt.png",AdultIPTV.net MILF
+http://live.redtraffic.xyz/milf.m3u8
+
+#EXTINF:-1 group-title="WEB | XXX" tvg-logo="https://i.imgur.com/VTzRaLt.png",AdultIPTV.net Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+
+#EXTINF:-1 group-title="WEB | XXX" tvg-logo="https://i.imgur.com/VTzRaLt.png",AdultIPTV.net Pornstar
+http://live.redtraffic.xyz/pornstar.m3u8
+
+#EXTINF:-1 group-title="WEB | XXX" tvg-logo="https://i.imgur.com/VTzRaLt.png",AdultIPTV.net POV
+http://cdn.adultiptv.net/pov.m3u8
+
+#EXTINF:-1 group-title="WEB | XXX" tvg-logo="https://i.imgur.com/VTzRaLt.png",AdultIPTV.net POV
+http://live.redtraffic.xyz/pov.m3u8
+
+#EXTINF:-1 group-title="WEB | XXX" tvg-logo="https://i.imgur.com/VTzRaLt.png",AdultIPTV.net Rough
+http://cdn.adultiptv.net/rough.m3u8
+
+#EXTINF:-1 group-title="WEB | XXX" tvg-logo="https://i.imgur.com/VTzRaLt.png",AdultIPTV.net Russian
+http://cdn.adultiptv.net/russian.m3u8
+
+#EXTINF:-1 group-title="WEB | XXX" tvg-logo="https://i.imgur.com/VTzRaLt.png",AdultIPTV.net Russian
+http://live.redtraffic.xyz/russian.m3u8
+
+#EXTINF:-1 group-title="WEB | XXX" tvg-logo="https://i.imgur.com/VTzRaLt.png",AdultIPTV.net Teen
+http://cdn.adultiptv.net/teen.m3u8
+
+#EXTINF:-1 group-title="WEB | XXX" tvg-logo="https://i.imgur.com/VTzRaLt.png",AdultIPTV.net Teen
+http://live.redtraffic.xyz/teen.m3u8
+
+#EXTINF:-1 group-title="WEB | XXX" tvg-logo="https://i.imgur.com/VTzRaLt.png",AdultIPTV.net Threesome
+http://cdn.adultiptv.net/threesome.m3u8
+
+#EXTINF:-1 group-title="WEB | XXX" tvg-logo="https://i.imgur.com/VTzRaLt.png",AdultIPTV.net Threesome
+http://live.redtraffic.xyz/threesome.m3u8
+
+#EXTINF:-1 group-title="WEB | XXX" tvg-logo="https://i.imgur.com/VTzRaLt.png",AdultIPTV.net Woman
+http://live.redtraffic.net/woman.m3u8
+
+===========CANAIS MUSICA ANALIZAR
+
+#EXTINF:0 type="stream" group-title="Musicas" logo="https://i.imgur.com/fc2Ino6.png", ALTERNATIVE MUSIC
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2516
+
+#EXTINF:1 ,M2 (720p) (Ukrainian) 
+http://live.m2.tv/hls3/stream.m3u8
+
+#EXTINF:1 ,Reload (720p) (English;Modern Greek (1453-)) 
+http://web.onair-radio.eu:1935/video/video/playlist.m3u8 
+
+#EXTINF:1 ,Radio Weser TV Bremen (576p) (German) 
+https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8 
+
+#EXTINF:1 ,Muzzik Cafe&Club Serbia (720p) () 
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+
+#EXTINF:1 ,UpperA Balkan TV (AT) () 
+http://89.187.168.245:8080/live/sUPPERchannel2/tracks-v1a1/index.m3u8 
+
+#EXTINF:1 ,DeepHouse District () 
+https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+
+#EXTINF:1 ,GO-RTV (720p) (Dutch) 
+http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8 
+
+#EXTINF:1 ,Hits 360 HD () 
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8 
+
+#EXTINF:1 ,Kronehit (720p) (German) 
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+
+#EXTINF:1 ,MusicTop (720p) (Spanish) 
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8 
+
+#EXTINF:1 ,Muzzik HipHop Serbia (720p) () 
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8 
+
+#EXTINF:1 ,Muzzik Jeka Serbia (720p) () 
+https://muzzik-live.morescreens.com/mts-4/playlist.m3u8 
+
+#EXTINF:1 ,Muzzik Mediteraneo Serbia (720p) () 
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8 
+
+#EXTINF:1 ,Muzzik OKK Serbia (720p) () 
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8 
+
+#EXTINF:1 ,ON TV () 
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8
+
+#EXTINF:1 ,Qello Concerts (1080p) (English) 
+https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8 
+
+#EXTINF:1 ,Radiou TV (US) (720p) (English) 
+https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8 
+
+#EXTINF:1 ,The Retro Channel HD () 
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8 
+
+#EXTINF:1 ,VEVO Hip Hop (US) (1080p) (English) 
+https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8 
+
+#EXTINF:1 ,Новое радио (1080p) (Russian) 
+https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8 
+
+#EXTINF:1 ,Радио Шансон (720p) (Russian) 
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8 
+
+
+
+
+
