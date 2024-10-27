@@ -1,4 +1,5 @@
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TESTES",SBT
-#EXTVLCOPT:http-referrer=https://embedmax.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://abc.embedmax.site/sbt/video.m3u8
+<video controls>
+    <source src="https://abc.embedmax.site/sbt/video.m3u8?referrer=https://embedmax.site/" type="application/x-mpegURL">
+    Seu navegador não suporta o vídeo.
+</video>
+
