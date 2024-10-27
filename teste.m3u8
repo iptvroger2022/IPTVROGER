@@ -1,1 +1,4 @@
-http://ucsxiptv.com:8080/live/rafaelipbr/whts00548534534589gfv/267429.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TESTES",SBT
+#EXTVLCOPT:http-referrer=https://embedmax.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://abc.embedmax.site/sbt/video.m3u8
