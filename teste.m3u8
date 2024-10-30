@@ -1,5 +1,6 @@
-<video controls>
-    <source src=https://abc.embedmax.site/sbt/video.m3u8?referrer=https://embedmax.site/ type="application/x-mpegURL">
-    Seu navegador não suporta o vídeo.
-</video>
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=640x360
+#EXTVLCOPT:http-referrer=https://embedmax.site/
+https://abc.embedmax.site/sbt/video.m3u8
 
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=1280x720
