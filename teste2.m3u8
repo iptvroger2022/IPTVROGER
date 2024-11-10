@@ -1,9 +1,4 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:9.0,
 #EXTVLCOPT:http-referrer=https://jalynrabei.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://anonmedia.eu/jpnews/index.m3u8
-#EXT-X-ENDLIST
+
