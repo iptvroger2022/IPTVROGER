@@ -3,9 +3,12 @@
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:9.0,
-http://zzzzzzzzzzzz/auth/211526_1.ts
+http://dns.panela.online/live/claudio18rea/rea88lecco/328154.m3u8
 #EXTINF:9.0,
-http://zzzzzzzzzz/auth/211526_2.ts
+http://dns.cebola.pro:80/live/claudio18rea/rea88lecco/328154.m3u8
 #EXTINF:9.0,
-http://zzzzzzzzzzz/auth/211526_3.ts
+http://zlb180.ofcs.top/auth/211526.ts
+#EXTVLCOPT:http-referrer=https://jalynrabei.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://anonmedia.eu/jpnews/index.m3u8
 #EXT-X-ENDLIST
