@@ -1,6 +1,5 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=640x360
+#EXT-X-STREAM-INF:BANDWIDTH=4000000,RESOLUTION=1920x1080
 #EXTVLCOPT:http-referrer=https://embedmax.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://abc.embedmax.site/sbt/video.m3u8
-
-#EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=1280x720
