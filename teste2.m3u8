@@ -3,8 +3,8 @@
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTVLCOPT:network-caching=40000
 #EXTVLCOPT:http-reconnect=true
-http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/658905_1508.m3u8
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/658905_1508.ts
 #EXTINF:10.0,
-http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/658905_1509.m3u8
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/658905_1509.ts
 #EXTINF:10.0,
-http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/658905_1510.m3u8
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/658905_1510.ts
