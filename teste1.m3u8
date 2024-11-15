@@ -1,5 +1,4 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://embedmax.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXT-X-STREAM-INF:BANDWIDTH=4000000,RESOLUTION=1920x1080
 https://abc.embedmax.site/sbt/video.m3u8
