@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Checker IPTV</title>
+
+    <!-- Adicione os links para os arquivos CSS e JavaScript do Bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #2b2b2b;
+            color: #ffffff;
+            margin: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .container {
+            background-color: #333333;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            max-width: 600px;
+            width: 100%;
+        }
+
+        label {
+            display: block;
+            margin-top: 10px;
+        }
+
+        input {
+            width: 100%;
+            padding: 8px;
+            margin-top: 5px;
+            box-sizing: border-box;
+        }
+
+        button {
+            background-color: #007bff;
+            color: #ffffff;
+            padding: 10px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            margin-top: 10px;
+            width: 100%;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        h2 {
+            color: #007bff;
+            margin-top: 20px;
+        }
+
+        #apiResult {
+            margin-top: 10px;
+            padding: 10px;
+            border: 1px solid #007bff;
+            border-radius: 4px;
+            max-width: 100%;
+            overflow: auto;
+            white-space: pre-wrap; /* Adicionado para manter a formatação do texto */
+            max-height: 300px; /* Defina uma altura máxima para os resultados */
+        }
+
+        .bold {
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+
+        .blue {
+            color: #007bff;
+        }
+
+        .progress-container {
+            width: 100%;
+            height: 20px;
+            background-color: #ddd;
+            border-radius: 4px;
+            margin-top: 10px;
+            overflow: hidden;
+        }
+
+        .progress-bar {
+            height: 100%;
+            width: 0;
+            background-color: #4caf50;
+            border-radius: 4px;
+            transition: width 0.3s ease;
+        }
+
+        .indicator {
+            margin-top: 10px;
+            color: #007bff;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+            text-align: left;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h2>Checker IPTV</h2>
+    <label for="apiLinkInput">Insira o link da API:</label>
+    <input type="text" id="apiLinkInput" placeholder= lista aqui cara pálida!">
+    <button onclick="extrairParametros()">Extrair Parâmetros e Chamar API</button>
+
+    <div class="progress-container">
+        <div class="progress-bar" id="progressBar"></div>
+    </div>
+
+    <div class="indicator" id="indicator"></div>
+
+    <h2>Resultado da API</h2>
+    <div id="apiResult" contenteditable="true"></div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+<script>
+    const type = "m3u_plus";
+
+    async function extrairParametros() {
+        const apiLinkInputValue = document.getElementById("apiLinkInput").value;
+
+        if (!apiLinkInputValue) {
+            console.error('Por favor, insira o link da API.');
+            return;
+        }
+
+        const url = new URL(apiLinkInputValue);
+        const apiUrl = `${url.protocol}//${url.hostname}:${url.port || (url.protocol === "https:" ? 443 : 80)}/player_api.php`;
+        const apiUsername = url.searchParams.get("username");
+        const apiPassword = url.searchParams.get("password");
+
+        const apiUrlWithParams = `${apiUrl}?username=${apiUsername}&password=${apiPassword}&type=${type}`;
+
+        const progressBar = document.getElementById("progressBar");
+        progressBar.style.width = "0";
+        progressBar.style.backgroundColor = "#4caf50";
+
+        const headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3',
+            'Content-Type': 'application/json',
+            // Adicione outros headers conforme necessário
+        };
+
+        document.getElementById("indicator").innerText = "Carregando...";
+
+        try {
+            const [apiResponse, channels, movies, series] = await Promise.all([
+                axios.get(apiUrlWithParams, { headers }),
+                axios.get(`${apiUrl}?username=${apiUsername}&password=${apiPassword}&action=get_live_streams`, { headers }),
+                axios.get(`${apiUrl}?username=${apiUsername}&password=${apiPassword}&action=get_vod_streams`, { headers }),
+                axios.get(`${apiUrl}?username=${apiUsername}&password=${apiPassword}&action=get_series`, { headers })
+            ]);
+
+            const formattedResult = formatApiResponse(apiResponse.data);
+            const quantidadeCanais = `Quantidade de Canais Disponíveis: ${channels.data.length}`;
+            const quantidadeFilmes = `Quantidade de Filmes Disponíveis: ${movies.data.length}`;
+            const quantidadeSeries = `Quantidade de Séries Disponíveis: ${series.data.length}`;
+
+            document.getElementById("apiResult").innerHTML = `${formattedResult}<br>${quantidadeCanais}<br>${quantidadeFilmes}<br>${quantidadeSeries}`;
+            document.getElementById("indicator").innerText = "Concluído";
+        } catch (error) {
+            console.error('Erro ao chamar a API:', error);
+            document.getElementById("indicator").innerText = "Erro ao chamar a API";
+        } finally {
+            progressBar.style.backgroundColor = "#ddd";
+        }
+    }
+
+    function formatApiResponse(apiResponse) {
+        let formattedResult = '<ul>';
+        for (const key in apiResponse) {
+            if (apiResponse.hasOwnProperty(key)) {
+                formattedResult += `<li><span class="bold">${key.toUpperCase()}</span>: `;
+                if (typeof apiResponse[key] === 'object') {
+                    formattedResult += '<ul>';
+                    for (const subKey in apiResponse[key]) {
+                        if (apiResponse[key].hasOwnProperty(subKey)) {
+                            formattedResult += `<li><span class="bold">${subKey.toUpperCase()}</span>: `;
+                            if (subKey === 'link') {
+                                formattedResult += `<a class="blue" href="${apiResponse[key][subKey]}" target="_blank">${apiResponse[key][subKey]}</a></li>`;
+                            } else if (isDate(apiResponse[key][subKey])) {
+                                formattedResult += `<span class="blue">${formatDate(apiResponse[key][subKey])}</span></li>`;
+                            } else if (subKey === 'ALLOWED_OUTPUT_FORMATS') {
+                                formattedResult += `<li><span class="bold">${subKey.toUpperCase()}</span>: <ul>`;
+                                apiResponse[key][subKey].forEach(format => {
+                                    formattedResult += `<li><span class="blue">${format}</span></li>`;
+                                });
+                                formattedResult += `</ul></li>`;
+                            } else {
+                                formattedResult += `<span class="blue">${apiResponse[key][subKey]}</span></li>`;
+                            }
+                        }
+                    }
+                    formattedResult += '</ul>';
+                } else {
+                    formattedResult += `<span class="blue">${apiResponse[key]}</span></li>`;
+                }
+            }
+        }
+        formattedResult += '</ul>';
+        return formattedResult;
+    }
+
+    function isDate(value) {
+        return value instanceof Date || /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}.\d{3}Z$/.test(value);
+    }
+
+    function formatDate(dateString) {
+        const options = { year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit', second: '2-digit', timeZone: 'UTC' };
+        const formattedDate = new Date(dateString).toLocaleDateString('en-US', options);
+        return formattedDate;
+    }
+</script>
+
+</body>
+</html>
