@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-type="stream" tvg-id="-1" tvg-logo="https://i.imgur.com/jdd5Jsa.png" group-title="Canais ABERTO",????PIXTV 1.??
+#EXTM3U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
 #EXTVLCOPT:http-referrer=https://tmwpix.com/pixtv
 https://mpix05.tmwpix.com:6516/pix/pixtv_hi.m3u8#_https://tmwpix.com/pixtv
