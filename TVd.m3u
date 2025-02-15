@@ -1,0 +1,145 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-id="Tvdnews.br" description="Assuntos Politicos de Direita" tvg-name="https://tvdnews.com.br/#_http://201.159.95.110/player.html" tvg-logo="https://i.imgur.com/3G9NiWt.png" group-title="▆ NOTICIAS ▆",TVD NEWS
+http://201.159.95.230:8000/play/a001/index.m3u8#_TVD_NEWS#_https://tvdnews.com.br/#_http://201.159.95.110/player.html
+
+#EXTINF:-1 tvg-id="politica.br" description="Live do Pastor São Rocha--Desdobramentos" tvg-name=" " tvg-logo="https://i.imgur.com/4a5vN6s.png" group-title="▆ NOTICIAS ▆",DESDOBRAMENTOS PASTOR SANDRO ROCHA (Twiter-live)
+https://github.com/iptvroger2022/IPTVROGER/raw/refs/heads/main/DESDOBRAMENTOS_(Twiter-live).m3u8#_https://x.com/prsandrorocha
+
+#EXTINF:-1 tvg-id="politica.br" description="Liver Diogo Forjaz" tvg-name=" " tvg-logo="https://i.imgur.com/EFggFQK.png" group-title="▆ NOTICIAS ▆",LIVE DIOGO FORJAZ (Twiter-live)
+https://github.com/iptvroger2022/IPTVROGER/raw/refs/heads/main/DIOGO_FORJAZ_(Twiter-live).m3u8#_https://x.com/DiogoForjaz
+
+#EXTINF:-1 tvg-id="jovempannews.br" description="" tvg-name="https://jovempan.com.br/ao-vivo" tvg-logo="https://i.imgur.com/I8GZ999.png" group-title="▆ NOTICIAS ▆",JOVEM PAN NEWS HD (vood)
+http://fzcdn.vood.top/hls/482_.m3u8#_JOVEM PAN NEWS HD (vood)#_https://jovempan.com.br/ao-vivo#_JOVEM_PAN_NEWS_HD_(vood)#_https://jovempan.com.br/ao-vivo
+
+#EXTINF:-1 tvg-id="jovempannews.br" description="" tvg-name="https://brasilaovivo.tv/jovem-pan" tvg-logo="https://i.imgur.com/I8GZ999.png" group-title="▆ NOTICIAS ▆",JOVEM PAN NEWS HD (Alanza)
+http://alanza.iptv2022.com/Jovem_Pan_News/index.m3u8#_JOVEM PAN NEWS HD (Alanza)#_https://brasilaovivo.tv/jovem-pan#_JOVEM_PAN_NEWS_HD_(Alanza)#_https://brasilaovivo.tv/jovem-pan
+
+#EXTINF:-1 tvg-id="jovempannews.br" description="" tvg-name="https://jovempan.com.br/ao-vivo" tvg-logo="https://i.imgur.com/I8GZ999.png" group-title="▆ NOTICIAS ▆",JOVEM PAN NEWS HD (cloudfront)
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8#_JOVEM PAN NEWS HD (cloudfront)#_https://jovempan.com.br/ao-vivo#_JOVEM_PAN_NEWS_HD_(cloudfront)#_https://jovempan.com.br/ao-vivo
+
+#EXTINF:-1 tvg-id="Cnbcbrasil.br" description="" tvg-name="" tvg-logo="https://i.imgur.com/18NOYPj.png" group-title="▆ NOTICIAS ▆",CNBC BRASIL (vood)
+http://fzcdn.vood.top/live/151801388/t996N8097m/527504.m3u8#_CNBC_BRASIL_HD
+
+#EXTINF:-1 tvg-id="politica.br" description="" tvg-name="https://bmcnews.com.br/" tvg-logo="https://i.imgur.com/jBQNcQ3.png" group-title="▆ NOTICIAS ▆",BM&C NEWS HD (alanza)
+https://alanza.iptv2022.com/sh/BM_C_News/index.m3u8#_BM&C NEWS HD (alanza)#_https://bmcnews.com.br/
+
+#EXTINF:-1 tvg-id="politica.br" description="" tvg-name="https://bmcnews.com.br/" tvg-logo="https://i.imgur.com/jBQNcQ3.png" group-title="▆ NOTICIAS ▆",BM&C NEWS HD (Plutotv)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/666c9c60a7efd40008f552f0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e7709130-92fd-11ef-a44a-39d1bcbe9e2f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=175fd59d-9e07-4058-8ba5-7ad462daa2f1&userId=&serverSideAds=true#_BM&C NEWS HD (Plutotv)#_https://bmcnews.com.br/#_BM&C_NEWS_HD_(Plutotv)#_https://bmcnews.com.br/
+
+#EXTINF:-1 tvg-id="Cnnmoney.br" description="" tvg-name="" tvg-logo="https://i.imgur.com/t2tz0OW.png" group-title="▆ NOTICIAS ▆",CNN MONEY BRASIL HD (Soultv)
+https://video03.logicahost.com.br/cnnmoney/cnnmoney/playlist.m3u8#_https://soultv.com.br/channel/294#_#_CNN_MONEY_BRASIL_HD_(Soultv)
+
+#EXTINF:-1 tvg-id="Cnnmoney.br" description="" tvg-name="" tvg-logo="https://i.imgur.com/t2tz0OW.png" group-title="▆ NOTICIAS ▆",CNN MONEY BRASIL HD (vood)
+http://hzcdn.vood.top/live/cnnmoney/cnnmoney/527506.m3u8#_CNN_MONEY_BRASIL_HD#_CNN_MONEY_BRASIL_HD_(vood)
+
+#EXTINF:-1 tvg-id="Cnnmoney.br" description="" tvg-name="" tvg-logo="https://i.imgur.com/t2tz0OW.png" group-title="▆ NOTICIAS ▆",CNN MONEY BRASIL HD (nxtv)
+https://cdn-fast.nxtv.com.br/9978b7063e297d84e1cd5f21af3a88b1/cnnmoney/aovivo_abr/playlist.m3u8#_CNN_MONEY_BRASIL_HD_(nxtv)
+
+#EXTINF:-1 tvg-id="cnnbrasil.br" description="" tvg-name="https://github.com/newclews/iptvlist/blob/b5be2dbe230a9dec5ed382c9a2a05547d88241a7/iptv.m3u#L200" tvg-logo="https://i.imgur.com/myaov71.png" group-title="▆ NOTICIAS ▆",CNN BRASIL HD (Soultv)
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cnnbrasil.br" description="" tvg-name="https://github.com/newclews/iptvlist/blob/b5be2dbe230a9dec5ed382c9a2a05547d88241a7/iptv.m3u#L200" tvg-logo="https://i.imgur.com/myaov71.png" group-title="▆ NOTICIAS ▆",CNN BRASIL HD (cloudfront)
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="politica.br" description="" tvg-name="TV FLORIDA (DIREITA)" tvg-logo="https://i.imgur.com/DQIMQ18.png" group-title="▆ NOTICIAS ▆",TV FLORIDA (direita)
+https://srv1.zcast.com.br/tvflorida/tvflorida/playlist.m3u8
+
+#EXTINF:-1 tvg-id="noticias.br" description="" tvg-name=" " tvg-logo="https://i.imgur.com/X8ExXoq.png" group-title="▆ NOTICIAS ▆",24H NEWS (connectbr)
+https://cdn.g2gsistemas.com.br/24_news/index.m3u8
+
+#EXTINF:-1 tvg-id="noticias.br" description="" tvg-name=" " tvg-logo="https://i.imgur.com/8JOTc6u.png" group-title="▆ NOTICIAS ▆",011 NEWS (Soultv)
+https://video01.soultv.com.br/011news/011news/playlist.m3u8
+
+#EXTINF:-1 tvg-id="noticias.br" description="" tvg-name="https://www.tveuronews.com/--https://soultv.com.br/channel/205" tvg-logo="https://i.imgur.com/Gu8661Y.png" group-title="▆ NOTICIAS ▆",TV EURO NEWS (Curitiba)
+https://video01.logicahost.com.br/tveuronews/tveuronews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RecordNews.br" description="" tvg-name=" " tvg-logo="https://i.imgur.com/kpoca9F.png" group-title="▆ NOTICIAS ▆",RECORD NEWS HD (connectbr)
+https://cdn.g2gsistemas.com.br/Record-News-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="RecordNews.br" description="" tvg-name=" " tvg-logo="https://i.imgur.com/kpoca9F.png" group-title="▆ NOTICIAS ▆",RECORD NEWS HD (vidatel)
+https://tv.vidatel.com.br/hls/tvrecordnewshd/live.m3u8
+
+#EXTINF:-1 tvg-id="Euronews.pt" description="" tvg-name="https://www.cxtv.com.br/tv-ao-vivo/euronews-pt" tvg-logo="https://i.imgur.com/sLFwAPN.png" group-title="▆ NOTICIAS ▆",EURO NEWS PLEX(Portugal)
+https://euronews-euronews-portugues-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Euronews.pt" description="" tvg-name="https://www.cxtv.com.br/tv-ao-vivo/euronews-pt" tvg-logo="https://i.imgur.com/sLFwAPN.png" group-title="▆ NOTICIAS ▆",EURO NEWS PLUTO (Portugal)
+https://bit.ly/46RyCcU?profile=inspirationFreetv.m3u8
+
+#EXTINF:-1 tvg-id=" " description="" tvg-name="" tvg-logo="https://i.imgur.com/vhtj40c.png" group-title="▆ NOTICIAS ▆",TV SOU NOTICIA
+https://stmv1.paineltv.net/neryfm/neryfm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Serranewstv.br" description="" tvg-name="" tvg-logo="https://i.imgur.com/Wx9Q1sV.png" group-title="▆ NOTICIAS ▆",SERRA NEWS TV
+https://stmv1.voxtvhd.com.br/serratv/serratv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vivaxtv.br" description="" tvg-name="https://www.vivaxtv.com/" tvg-logo="https://i.imgur.com/XLLwoP7.png" group-title="▆ NOTICIAS ▆",VIVAX TV
+https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlenaTV.br" description="" tvg-name="https://www.folha1.com.br/plena_tv" tvg-logo="https://i.imgur.com/lH4RT7b.png" group-title="▆ NOTICIAS ▆",PLENA TV
+https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
+
+#EXTINF:-1 tvg-id="STZTV.br" description="" tvg-name="https://iptv-web.app/BR/STZTV.br/" tvg-logo="https://i.imgur.com/SeF2I7q.png" group-title="▆ NOTICIAS ▆",STZ TV
+https://cdn.jmvstream.com/w/AVJ-12952/playlist/playlist.m3u8
+
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.2" tvg-id="Canal38.br" description="" tvg-name="https://www.cxtv.com.br/tv-ao-vivo/rtv-canal-38" tvg-logo="https://i.imgur.com/co7TCWC.png" group-title="▆ NOTICIAS ▆",RTV CANAL 38
+https://cdn.live.br1.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8#_https://www.cxtv.com.br/tv-ao-vivo/rtv-canal-38
+
+#EXTINF:-1 tvg-id=" " description="" tvg-name="https://pluto.tv/br/live-tv/645a99282858cb0008ea8378" tvg-logo="https://imgur.com/vSKVrvH.png" group-title="▆ NOTICIAS ▆",NEW BRASIL (samsungtv-1)
+https://cc-7pakstinpyajo.akamaized.net/playlist720p.m3u8
+
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.2" tvg-id=" " description="" tvg-name="https://pluto.tv/br/live-tv/645a99282858cb0008ea8378" tvg-logo="https://imgur.com/vSKVrvH.png" group-title="▆ NOTICIAS ▆",NEW BRASIL (samsungtv-2)
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7pakstinpyajo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SICNoticias.pt" description="" tvg-name=" " tvg-logo="https://i.imgur.com/Ry3MS6N.png" group-title="▆ NOTICIAS ▆",SIC NOTICIAS (Portugal)
+https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
+
+#EXTINF:-1 tvg-id="Dwnoticias.br" description="" tvg-name=" " tvg-logo="https://i.imgur.com/d4MWLp3.png" group-title="▆ NOTICIAS ▆",DW NOTICIAS (Espanhol)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="Tvcapitalmossoro.br" description="" tvg-name=" " tvg-logo="https://i.imgur.com/QBjPw9s.png" group-title="▆ NOTICIAS ▆",TV CAPITAL (Mossoro)
+https://stmv7.samcast.com.br/raimundoanselmolimamororo9090/raimundoanselmolimamororo9090/playlist.m3u8#_TV_CAPITAL_(Mossoro)#_https://www.tvcapital.com.br/ao-vivo
+
+#EXTINF:-1 tvg-id="tvconnect.us" description="" tvg-name=" " tvg-logo="https://i.imgur.com/NB1ZB65.png" group-title="▆ NOTICIAS ▆",TV CONNECT (USA)
+https://5a3c48d69cf69.streamlock.net/tvconnect/tvconnect.sdp/playlist.m3u8#_TV_CONNECT_(USA)#_https://www.tvconnect.us/channels/2
+
+#EXTINF:-1 tvg-id="falalitoraltv.br" description="" tvg-name="https://portalfalalitoral.com/web-tv/" tvg-logo="https://i.imgur.com/X3lIFxM.png" group-title="▆ NOTICIAS ▆",FALA LITORAL WEB TV ( podcasts )
+https://5c483b9d1019c.streamlock.net:443/falalitoraltv/falalitoraltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="politica.br" description="" tvg-name="" tvg-logo="https://i.imgur.com/INsaN4K.png" group-title="▆ NOTICIAS ▆",TV BIA KICIS
+https://video01.soultv.com.br/biakicis/biakicis/playlist.m3u8
+
+#EXTINF:-1 tvg-id="politica.br" description="" tvg-name="AVANÇA BRASIL (Bolsonaro)" tvg-logo="https://i.imgur.com/7Rm3uCn.png" group-title="▆ NOTICIAS ▆",AVANÇA BRASIL 
+https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="politica.br" description="" tvg-name="4 POR 4" tvg-logo="https://i.imgur.com/opTW9Jb.png" group-title="▆ NOTICIAS ▆",PROGRAMA 4 POR 4 (soultv)
+https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="politica.br" description="" tvg-name="https://www.tvmarcheti.com/" tvg-logo="https://i.imgur.com/aI5XFxc.png" group-title="▆ NOTICIAS ▆",TV MARCHETI (soultv)
+https://stmv1.samcast.com.br/junior4319/junior4319/chunklist_w1167163618.m3u8
+
+#EXTINF:-1 tvg-id="politica.br" description="" tvg-name="https://olhatv.framer.website/" tvg-logo="https://i.imgur.com/1DooZQx.png" group-title="▆ NOTICIAS ▆",OLHA TV (series-news-politica)
+https://5cf4a2c2512a2.streamlock.net/8272/8272/playlist.m3u8
+
+#EXTINF:-1 tvg-id="politica.br" description="" tvg-name="https://www.soultv.com.br/channel/35" tvg-logo="https://i.imgur.com/6TO5hIO.png" group-title="▆ NOTICIAS ▆",FERNANDA BARTH (Direto ao ponto)
+https://video01.soultv.com.br/diretoaoponto/diretoaoponto/playlist.m3u8
+
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.2" tvg-id="Vezatv.br" description="" tvg-name="" tvg-logo="https://i.imgur.com/lsry8Jz.png" group-title="▆ NOTICIAS ▆",VEZA TV
+https://vezatv.mediastreaming.com.br/vezatv/live.stream/chunks.m3u8#_VEZA_TV#_https://vezatv.com.br/#_https://i.imgur.com/lsry8Jz.png
+
+#EXTINF:-1 tvg-id="CanalRural.br" description="" tvg-name="" tvg-logo="https://i.imgur.com/QTeV9MT.png" group-title="▆ NOTICIAS ▆",CANAL RURAL AGRO (streamlock)
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.2" tvg-id="CanalRural.br" description="" tvg-name="" tvg-logo="https://i.imgur.com/QTeV9MT.png" group-title="▆ NOTICIAS ▆",CANAL RURAL AGRO (samsungtv)
+https://brn-crbr-samsungtvplus-br.otteravision.com/brn/crbr/crbr.m3u8
+
+#EXTINF:-1 tvg-id="CanalRural.br" description="" tvg-name="" tvg-logo="https://i.imgur.com/QTeV9MT.png" group-title="▆ NOTICIAS ▆",CANAL RURAL AGRO (connectbr)
+https://cdn.g2gsistemas.com.br/Canal-Rural/index.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo.usa" description="" tvg-name=" " tvg-logo="https://i.imgur.com/mk3wjai.png" group-title="▆ NOTICIAS ▆",TELE MUNDO FLORIDA
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
+
+#EXTINF:-1 tvg-id="radios.br" description="" tvg-name=" " tvg-logo="https://i.ytimg.com/vi/TjNSmEvqWxU/maxresdefault.jpg" group-title="▆ RADIOS E AUDIOS ▆",(1)--SELEÇÃO NEW AGE (archive)
+https://archive.org/serve/seleca-o-melhores-new-age/SELE%C3%87%C3%83O%20MELHORES%20NEW%20AGE.mp3
+
+#EXTINF:-1 tvg-id="radios.br" description="" tvg-name="https://zeno.fm/radio/radio-new-age-joinville/" tvg-logo="https://i.ytimg.com/vi/TjNSmEvqWxU/maxresdefault.jpg" group-title="▆ RADIOS E AUDIOS ▆",RADIO NEW AGE JOINVILLE
+https://stream-168.zeno.fm/1yyqoktdlt2tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxeXlxb2t0ZGx0MnR2IiwiaG9zdCI6InN0cmVhbS0xNjguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlU5ZzRnRXRBU0dHRXpqM2Zvd0F5dlEiLCJpYXQiOjE3MzkwNTgyNzYsImV4cCI6MTczOTA1ODMzNn0.nFK_Px6fOEYKiUlSTKUbxFv_LF3C8Rxesm7oj8FEfHU
