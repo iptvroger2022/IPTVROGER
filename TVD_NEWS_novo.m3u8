@@ -1,9 +1,4 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:1
-#EXT-X-MEDIA-SEQUENCE:2
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:1,
 http://201.159.95.201:8000/play/a001/index.m3u8#_TVD_NEWS#_https://tvdnews.com.br/#_http://201.159.95.201/player.html
 http://201.159.95.202:8000/play/a001/index.m3u8#_TVD_NEWS#_https://tvdnews.com.br/#_http://201.159.95.202/player.html
 http://201.159.95.203:8000/play/a001/index.m3u8#_TVD_NEWS#_https://tvdnews.com.br/#_http://201.159.95.203/player.html
@@ -44,4 +39,3 @@ http://201.159.95.237:8000/play/a001/index.m3u8#_TVD_NEWS#_https://tvdnews.com.b
 http://201.159.95.238:8000/play/a001/index.m3u8#_TVD_NEWS#_https://tvdnews.com.br/#_http://201.159.95.238/player.html
 http://201.159.95.239:8000/play/a001/index.m3u8#_TVD_NEWS#_https://tvdnews.com.br/#_http://201.159.95.239/player.html
 http://201.159.95.240:8000/play/a001/index.m3u8#_TVD_NEWS#_https://tvdnews.com.br/#_http://201.159.95.240/player.html
-#EXT-X-ENDLIST
