@@ -1,0 +1,254 @@
+#EXTM3U url-tvg="http://triertri.xyz:80/xmltv.php?username=07260325197&password=33150837453&type=m3u,https://raw.githubusercontent.com/listamake/iptvbr/main/guide/epg.xml,http://m3u4u.com/xml/69wkngjm97bz5ejjyq8g,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml"
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@Programa4por4/streams" tvg-logo="https://i.imgur.com/opTW9Jb.png" group-title="▆ YOUTUBE LIVES ▆",PROGRAMA 4 POR 4 (Youtube-Live)
+https://www.youtube.com/c/@Programa4por4/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@BMCNEWStv/streams" tvg-logo="https://i.imgur.com/jBQNcQ3.png" group-title="▆ YOUTUBE LIVES ▆",BM&C NEWS-1 HD (Youtube-Live)
+https://www.youtube.com/c/@BMCNEWStv/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/channel/UCzY4IvYwOgA4viaDdVNyfZQ" tvg-logo="https://i.imgur.com/4a5vN6s.png" group-title="▆ YOUTUBE LIVES ▆",PASTOR SANDRO ROCHA (Youtube-Live)
+https://www.youtube.com/channel/UCzY4IvYwOgA4viaDdVNyfZQ/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@DiogoForjaz/streams" tvg-logo="https://i.imgur.com/EFggFQK.png" group-title="▆ YOUTUBE LIVES ▆",LIVE DIOGO FORJAZ (Youtube-Live)
+https://www.youtube.com/c/@DiogoForjaz/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/channel/UCLHIUIBIid6qpljFBWEOHSw/featured" tvg-logo="https://i.imgur.com/NTZgWg0.png" group-title="▆ YOUTUBE LIVES ▆",RADIO AURI VERDE BRASIL (Youtube-Live)
+https://www.youtube.com/c/@auriverdebrasil/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@auriverdebauru/streams" tvg-logo="https://i.imgur.com/kqFiKzJ.png" group-title="▆ YOUTUBE LIVES ▆",RADIO AURI VERDE BAURU (Youtube-Live)
+https://www.youtube.com/c/@auriverdebauru/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@Direitacristaoficial" tvg-logo="https://i.imgur.com/Wh57NuW.png" group-title="▆ YOUTUBE LIVES ▆",DIREITA CRISTA OFICIAL (Youtube-Live)
+https://www.youtube.com/c/@Direitacristaoficial/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@bradoradio/streams" tvg-logo="https://i.imgur.com/G7ZqfAv.png" group-title="▆ YOUTUBE LIVES ▆",TV RADIO BRADO (Youtube-Live)
+https://www.youtube.com/c/@bradoradio/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@bradoradio/streams" tvg-logo="https://i.imgur.com/G7ZqfAv.png" group-title="▆ YOUTUBE LIVES ▆",TV RADIO BRADO (Youtube-Live)
+https://www.youtube.com/channel/UCBtpKi29d2LQTYJWTKPHAvg/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@FolhaPoliticaOficial/streams" tvg-logo="https://i.imgur.com/ETEukSE.png" group-title="▆ YOUTUBE LIVES ▆",FOLHA POLITICA (Youtube-Live)
+https://www.youtube.com/c/@FolhaPoliticaOficial/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@OzzyReturn/streams" tvg-logo="https://i.imgur.com/QU0JCBo.png" group-title="▆ YOUTUBE LIVES ▆",POLITICA--OZZY RETURN (Youtube-Live)
+https://www.youtube.com/c/@OzzyReturn/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@PatriotasdoBrasilFA" tvg-logo="https://i.imgur.com/HERdn7C.png" group-title="▆ YOUTUBE LIVES ▆",PATRIOTAS DO BRASIL (Youtube-Live)
+https://www.youtube.com/c/@PatriotasdoBrasilFA/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@canalolharpatriota/streams" tvg-logo="https://i.imgur.com/efBgXcL.png" group-title="▆ YOUTUBE LIVES ▆",OLHAR PATRIOTA (Youtube-Live)
+https://www.youtube.com/c/@canalolharpatriota/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@CanalPatriotasOficial" tvg-logo="https://i.imgur.com/dG7vMCU.png" group-title="▆ YOUTUBE LIVES ▆",CANAL PATRIOTAS (Youtube-Live)
+https://www.youtube.com/c/@CanalPatriotasOficial/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/channel/UCrrjaIP4lYA43ghMjWrFZww" tvg-logo="https://i.imgur.com/Wv34JUL.png" group-title="▆ YOUTUBE LIVES ▆",REVISTA OESTE (Youtube-Live)
+https://www.youtube.com/c/@RevistaOeste/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/channel/UCrrjaIP4lYA43ghMjWrFZww" tvg-logo="https://i.imgur.com/Wv34JUL.png" group-title="▆ YOUTUBE LIVES ▆",REVISTA OESTE (Youtube-Live)
+https://www.youtube.com/channel/UCBQAI1ZhurW3nbtJR-gBBZg/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@NovoProgramaF5/streams" tvg-logo="https://i.imgur.com/ufY8GCc.png" group-title="▆ YOUTUBE LIVES ▆",NOVO PROGRAMA F5 (Youtube-Live)
+https://www.youtube.com/c/@NovoProgramaF5/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@NovoProgramaF5/streams" tvg-logo="https://i.imgur.com/ufY8GCc.png" group-title="▆ YOUTUBE LIVES ▆",NOVO PROGRAMA F5 (Youtube-Live)
+https://www.youtube.com/channel/UCmNidQheADM6Rerz5FjS-FA/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@coracaopatriotabr/streams" tvg-logo="https://i.imgur.com/WbSQMdq.png" group-title="▆ YOUTUBE LIVES ▆",CORAÇÃO PATRIOTA (Youtube-Live)
+https://www.youtube.com/c/@coracaopatriotabr/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@CanaldeBrasilia/streams" tvg-logo="https://i.imgur.com/xQWA9Yp.png" group-title="▆ YOUTUBE LIVES ▆",CANAL DE BRASILIA (Youtube-Live)
+https://www.youtube.com/channel/UC_609pA3c3_RzrOlLCe4wCw/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@MidiaBH/streams" tvg-logo="https://i.imgur.com/naSxHq3.png" group-title="▆ YOUTUBE LIVES ▆",MIDIA BH POLITICA (Youtube-Live)
+https://www.youtube.com/c/@MidiaBH/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@Click44noticias/streams" tvg-logo="https://i.imgur.com/6CREJVh.png" group-title="▆ YOUTUBE LIVES ▆",CLICK 44 NOTÍCIAS (Youtube-Live)
+https://www.youtube.com/c/@Click44noticias/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@Click44noticias/streams" tvg-logo="https://i.imgur.com/6CREJVh.png" group-title="▆ YOUTUBE LIVES ▆",CLICK 44 NOTÍCIAS (Youtube-Live)
+https://www.youtube.com/channel/UCKDPioWWNrPGKoLgpG4gG1g/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@VlogdoLisboaOficial/streams" tvg-logo="https://i.imgur.com/RG2QWR0.png" group-title="▆ YOUTUBE LIVES ▆",VLOG DO LISBOA (Youtube-Live)
+https://www.youtube.com/c/@VlogdoLisboaOficial/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@plantaourgente1/streams" tvg-logo="https://i.imgur.com/2hL2mho.png" group-title="▆ YOUTUBE LIVES ▆",PLANTÃO URGENTE (Youtube-Live)
+https://www.youtube.com/c/@plantaourgente1/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@plantaourgente1/streams" tvg-logo="https://i.imgur.com/2hL2mho.png" group-title="▆ YOUTUBE LIVES ▆",PLANTÃO URGENTE (Youtube-Live)
+https://www.youtube.com/channel/UC1QaZFDb2Kq0QNCfMrEB8bA/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@VlogdoLisboaOficial/streams" tvg-logo="https://i.imgur.com/RG2QWR0.png" group-title="▆ YOUTUBE LIVES ▆",VLOG DO LISBOA (Youtube-Live)
+https://www.youtube.com/channel/UCeW2XVfsOkghlDuw6N7b_ag/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@abordonews/streams" tvg-logo="https://i.imgur.com/CsafgPZ.png" group-title="▆ YOUTUBE LIVES ▆",A BORDO NEWS (Youtube-Live)
+#REF!
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@abordonews/streams" tvg-logo="https://i.imgur.com/CsafgPZ.png" group-title="▆ YOUTUBE LIVES ▆",A BORDO NEWS (Youtube-Live)
+#REF!
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@patriaedefesa/streams" tvg-logo="https://i.imgur.com/92bqn0H.png" group-title="▆ YOUTUBE LIVES ▆",PATRIA E DEFESA (Youtube-Live)
+#REF!
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@BrBrasilNoticias/streams" tvg-logo="https://i.imgur.com/GJneDJF.png" group-title="▆ YOUTUBE LIVES ▆",BR BRASIL NOTÍCIAS (Youtube-Live)
+https://www.youtube.com/c/@BrBrasilNoticias/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@nbnewsbrasil/streams" tvg-logo="https://i.imgur.com/SVxiH6V.png" group-title="▆ YOUTUBE LIVES ▆",NB NEWS (Youtube-Live)
+#REF!
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@fatorpoliticobr/streams" tvg-logo="https://i.imgur.com/ZhiAigZ.png" group-title="▆ YOUTUBE LIVES ▆",FATOR POLITICO BR (Youtube-Live)
+https://www.youtube.com/c/@fatorpoliticobr/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@fatorpoliticobr/streams" tvg-logo="https://i.imgur.com/ZhiAigZ.png" group-title="▆ YOUTUBE LIVES ▆",FATOR POLITICO BR (Youtube-Live)
+https://www.youtube.com/channel/UCtCN9VVRR3fJolXWSbQ5oxw/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@VlogGDN/streams" tvg-logo="https://i.imgur.com/LNjXrDS.png" group-title="▆ YOUTUBE LIVES ▆",VLOG - O GIRO DE NOTICIAS (Youtube-Live)
+https://www.youtube.com/c/@VlogGDN/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/UCgwcuts-Mx4nOKb1d1vY39w" tvg-logo="https://i.imgur.com/yv8UMJS.jpg" group-title="▆ YOUTUBE LIVES ▆",DIDI RED PILL LIVE (Youtube-Live)
+https://www.youtube.com/c/@DIDIREDPILL/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@PauloFigueiredoShow/streams" tvg-logo="https://i.imgur.com/HILRrLn.png" group-title="▆ YOUTUBE LIVES ▆",PAULO FIGUEIREDO SHOW (Youtube-Live)
+https://www.youtube.com/c/@PauloFigueiredoShow/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@PauloFigueiredoShow/streams" tvg-logo="https://i.imgur.com/HILRrLn.png" group-title="▆ YOUTUBE LIVES ▆",PAULO FIGUEIREDO SHOW (Youtube-Live)
+https://www.youtube.com/channel/UCgwcuts-Mx4nOKb1d1vY39w/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@ROTADANOTICIA/streams" tvg-logo="https://i.imgur.com/mkZtw81.png" group-title="▆ YOUTUBE LIVES ▆",ROTA DA NOTICIA (Youtube-Live)
+https://www.youtube.com/c/@ROTADANOTICIA/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@brasil_patriota/streams" tvg-logo="https://i.imgur.com/OwPpNEB.png" group-title="▆ YOUTUBE LIVES ▆",BRASIL PATRIOTA (Youtube-Live)
+https://www.youtube.com/c/@brasil_patriota/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@mariovaicomasoutras/streams" tvg-logo="https://i.imgur.com/R7pSGIP.png" group-title="▆ YOUTUBE LIVES ▆",MARIO VAI COM AS OUTRAS (Youtube-Live)
+https://www.youtube.com/c/@mariovaicomasoutras/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@fiodiario" tvg-logo="https://i.imgur.com/4MjiYK8.png" group-title="▆ YOUTUBE LIVES ▆",CANAL FIO DIARIO DIREITA (Youtube-Live)
+https://www.youtube.com/c/@fiodiario/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@marco.antoniocosta/streams" tvg-logo="https://i.imgur.com/4MjiYK8.png" group-title="▆ YOUTUBE LIVES ▆",MARCO ANTONIO VILA (Youtube-Live)
+https://www.youtube.com/c/@marco.antoniocosta/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@RadioMaisBrasilOficial" tvg-logo="https://i.imgur.com/Oa4z7Co.png" group-title="▆ YOUTUBE LIVES ▆",RADIO + BRASIL (Youtube-Live)
+https://www.youtube.com/c/@RadioMaisBrasilOficial/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@RadioMaisBrasilOficial" tvg-logo="https://i.imgur.com/Oa4z7Co.png" group-title="▆ YOUTUBE LIVES ▆",RADIO + BRASIL (Youtube-Live)
+https://www.youtube.com/channel/UC8W9Sjy5gyBEQTSPJjfSq5g/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@BRNOTICIAS_OFICIAL/streams" tvg-logo="https://i.imgur.com/GdrVD4N.png" group-title="▆ YOUTUBE LIVES ▆",BR NOTICIAS (Youtube-Live)
+https://www.youtube.com/c/@BRNOTICIAS_OFICIAL/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@BRNOTICIAS_OFICIAL/streams" tvg-logo="https://i.imgur.com/GdrVD4N.png" group-title="▆ YOUTUBE LIVES ▆",BR NOTICIAS (Youtube-Live)
+https://www.youtube.com/channel/UCazBTgMYUz6goZZJ7yhkNTw/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@mundopolarizado/streams" tvg-logo="https://i.imgur.com/FcKZxNP.png" group-title="▆ YOUTUBE LIVES ▆",MUNDO POLARIZADO (Youtube-Live)
+https://www.youtube.com/c/@mundopolarizado/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@mundopolarizado/streams" tvg-logo="https://i.imgur.com/FcKZxNP.png" group-title="▆ YOUTUBE LIVES ▆",MUNDO POLARIZADO (Youtube-Live)
+https://www.youtube.com/channel/UC5Bw0GoCfHk9tA_30ltCw9Q/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@inteligencialtda/streams" tvg-logo="https://i.imgur.com/Q4Dniim.png" group-title="▆ YOUTUBE LIVES ▆",INTELIGENCIA LTDA (Youtube-Live)
+https://www.youtube.com/c/@inteligencialtda/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/c/OJacar%C3%A9deTanga/streams" tvg-logo="https://i.imgur.com/ghbS8Qy.png" group-title="▆ YOUTUBE LIVES ▆",JACARE DE TANGA (Youtube-Live)
+https://www.youtube.com/channel/UCS2VUzCG1vTEBVAmDkC7ZJg/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@brasilparalelo/streams" tvg-logo="https://i.imgur.com/dFuFGS8.png" group-title="▆ YOUTUBE LIVES ▆",BRASIL PARALELO (Youtube-Live)
+https://www.youtube.com/c/@brasilparalelo/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@PlantaoPlanalto/streams" tvg-logo="https://i.imgur.com/Oy961Y2.png" group-title="▆ YOUTUBE LIVES ▆",PLANTÃO PLANALTO (Youtube-Live)
+https://www.youtube.com/c/@PlantaoPlanalto/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@PHVox/streams" tvg-logo="https://i.imgur.com/pwQeCgP.png" group-title="▆ YOUTUBE LIVES ▆",GEOPOLÍTICA PHVOX (Youtube-Live)
+https://www.youtube.com/c/@PHVox/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@AlexMoretti/streams" tvg-logo="https://i.imgur.com/44ZKhOj.png" group-title="▆ YOUTUBE LIVES ▆",ALEX MORETTI (Youtube-Live)
+https://www.youtube.com/channel/UCFHjvhdH807Qv-OgBJt76SQ/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@Pavinatto/streams" tvg-logo="https://i.imgur.com/lvtBNYc.png" group-title="▆ YOUTUBE LIVES ▆",O CANAL DO PAVINATTO (Youtube-Live)
+https://www.youtube.com/channel/UCtD5V9CIoR4PHhXTi-DTwXw/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@Fabiotonusa/streams" tvg-logo="https://i.imgur.com/bwuaqij.png" group-title="▆ YOUTUBE LIVES ▆",FABIO TON POLITICA (Youtube-Live)
+https://www.youtube.com/c/@Fabiotonusa/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@DrMarceloSuave/streams" tvg-logo="https://i.imgur.com/SQa6fFW.png" group-title="▆ YOUTUBE LIVES ▆",DR. MARCELO SUAVE- ADVOGADO (Youtube-Live)
+https://www.youtube.com/channel/UCzwM7faIPB1gbK4At_BB0kw/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@VLOGDOBARBARUIVA40/streams" tvg-logo="https://i.imgur.com/Dc2IlZ0.png" group-title="▆ YOUTUBE LIVES ▆",POLITICA VLOG DO BARBA RUIVA (Youtube-Live)
+https://www.youtube.com/channel/UCzFWL7ST755q8bZHvsQ27Cw/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/channel/UCB44AUqUpC0C3V9ZTHy0bLg" tvg-logo="https://i.imgur.com/v7uLpA7.png" group-title="▆ YOUTUBE LIVES ▆",POLITICA PARAISO FLORIANOPOLIS (Youtube-Live)
+https://www.youtube.com/channel/UC5-IOBnk-mFdQgKS-niajYg/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@EdilsonPomini/streams" tvg-logo="https://i.imgur.com/cxYBlMw.png" group-title="▆ YOUTUBE LIVES ▆",POLITICA APOSTOLO EDILSON POMINI
+https://www.youtube.com/channel/UCIkkD1GV6TOFMtEQIulGFAQ/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/c/PlantaoFutebol/streams" tvg-logo="https://i.imgur.com/WEuxNKG.png" group-title="▆ YOUTUBE LIVES ▆",PLANTAO INFORMA (Youtube-Live)
+https://www.youtube.com/channel/UCNLtebBa1o18mAx8y0xyNDQ/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/c/canalpontodeigni%C3%A7%C3%A3o/streams" tvg-logo="https://i.imgur.com/2B3t6Ue.png" group-title="▆ YOUTUBE LIVES ▆",CANAL PONTO DE IGNICAO (Youtube-Live)
+https://www.youtube.com/channel/UC9e-2phAF-sR6NJiLiPBQ_A/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@PapaHardware/streams" tvg-logo="https://i.imgur.com/WJSWSjT.png" group-title="▆ YOUTUBE LIVES ▆",POLITICA--PAPA HARDWARE (Youtube-Live)
+https://www.youtube.com/c/@PapaHardware/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@rogerfonseca82/streams" tvg-logo="https://i.imgur.com/ZiZ1mGF.png" group-title="▆ YOUTUBE LIVES ▆",POLITICA--ROGER FONSECA 82 (Youtube-Live)
+https://www.youtube.com/channel/UCq-85W-8SpkvD8edgqYvvVw/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@oliviabissmathias/streams" tvg-logo=" https://i.imgur.com/v6zIi6h.png" group-title="▆ YOUTUBE LIVES ▆",DRA OLÍVIA BISS MATHIAS (Youtube-Live)
+https://www.youtube.com/channel/UC7nm8TXd8Hd_V7lPZD5oAyw/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@novobrasil/streams" tvg-logo="https://i.imgur.com/LPlDbAb.png" group-title="▂ ▄ ▅ ▆ YOUTUBE LIVES ▆ ▅ ▄ ▂",NOVO BRASIL (youtube-chew)
+https://hls.chew.jp/youtube/?channel=@novobrasil#_https://www.youtube.com/@novobrasil/streams
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@novobrasil/streams" tvg-logo="https://i.imgur.com/LPlDbAb.png" group-title="▆ YOUTUBE LIVES ▆",NOVO BRASIL (Youtube-Live)
+https://www.youtube.com/c/@novobrasil/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@ancap_su/streams" tvg-logo="https://i.imgur.com/c50RjAZ.png" group-title="▆ YOUTUBE LIVES ▆",ANCAPSU (Youtube-Live)
+https://www.youtube.com/c/@ancap_su/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@CanaldoDjeison/streams" tvg-logo="https://i.imgur.com/67Osr1v.png" group-title="▆ YOUTUBE LIVES ▆",CANAL DO DJEISON (Youtube-Live)
+https://www.youtube.com/channel/UCuyMNi0Ds2fWB_XT3JGi5CA/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@luciacesa/streams" tvg-logo="https://i.imgur.com/7eeYz7d.png" group-title="▆ YOUTUBE LIVES ▆",POLITICA ENSINAMENTOS da ERA de AQUÁRIO (Youtube-Live)
+https://www.youtube.com/channel/UCsev-xJunLe9FiaTyeyfNag/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@LucianoCesa2/streams" tvg-logo="https://i.imgur.com/wyG5i62.png" group-title="▆ YOUTUBE LIVES ▆",LUCIANO CESA (Youtube-Live)
+https://www.youtube.com/c/@LucianoCesa2/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@JornalDaCidadeO/streams" tvg-logo="https://i.imgur.com/D2deBON.png" group-title="▆ YOUTUBE LIVES ▆",JORNAL DA CIDADE ONLINE (Youtube-Live)
+https://www.youtube.com/c/@JornalDaCidadeO/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@cleitonbasso/streams" tvg-logo="https://i.imgur.com/JnucYul.png" group-title="▆ YOUTUBE LIVES ▆",CLEITON BASSO NOTICIAS (Youtube-Live)
+https://www.youtube.com/c/@cleitonbasso/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@KIMPAIM/streams" tvg-logo="https://i.imgur.com/zeGDwoS.png" group-title="▆ YOUTUBE LIVES ▆",KiM PAiM (Youtube-Live)
+https://www.youtube.com/channel/UCuiukp_wROL9PdZKm1hxSfA/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@SBTNews/streams" tvg-logo="https://i.imgur.com/4vOWeHE.png" group-title="▆ YOUTUBE LIVES ▆",SBT NEWS (Youtube-Live)
+https://www.youtube.com/c/@SBTNews/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/@NoAIvo" tvg-logo="https://i.imgur.com/3exA0ay.png" group-title="▆ YOUTUBE LIVES ▆",NO ALVO (Youtube-Live)
+https://www.youtube.com/channel/UCgTqVajBNAjIlatXhXHHCLA/live
+
+#EXTINF:-1 tvg-id="cursos.br" tvg-name="https://www.youtube.com/@infracursos" tvg-logo="https://i.imgur.com/sGfTGh5.png" group-title="▆ YOUTUBE LIVES ▆",INFRA CURSOS AUTOMOTIVOS (Youtube-Live)
+https://www.youtube.com/c/@infracursos/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/channel/UCywPu0TK6ZOYqz__VaqcAXw" tvg-logo="https://i.imgur.com/B6Qqhe3.png" group-title="▆ YOUTUBE LIVES ▆",LIGANDO OS PONTOS 14H (Youtube-Live)
+https://www.youtube.com/c/@LiigandoosPontos/live
+
+#EXTINF:-1 tvg-id="politica.br" tvg-name="https://www.youtube.com/channel/UCBbfZik43dDCH3JnAdiEI_w" tvg-logo="https://i.imgur.com/VpwihMq.png" group-title="▆ YOUTUBE LIVES ▆",VISAO DA DIREITA 9H (Youtube-Live)
+https://www.youtube.com/c/@VisãodaDireita/live
+
+#EXTINF:-1 tvg-id="Conservadorbr.br" tvg-name="https://www.youtube.com/channel/UC07mcddelRF4lyN5XBWt-qw/live" tvg-logo="https://i.imgur.com/MKteY8A.png" group-title="▆ YOUTUBE LIVES ▆",CONSERVADOR BR (Youtube-Live)
+https://www.youtube.com/c/@conservadorbr/live
+
+#EXTINF:-1 tvg-id="Timelinetv.br" tvg-name="" tvg-logo="https://i.imgur.com/zR4mD7S.png" group-title="▆ YOUTUBE LIVES ▆",TIMELINE TV (Youtube-Live)
+https://www.youtube.com/c/@RevistaTimeline/live
+
+#EXTINF:-1 tvg-id="radios.br" tvg-name="https://zeno.fm/radio/radio-new-age-joinville/" tvg-logo="https://i.ytimg.com/vi/TjNSmEvqWxU/maxresdefault.jpg" group-title="▆ RADIOS E AUDIOS ▆",RADIO NEW AGE JOINVILLE-1
+https://stream.zeno.fm/1yyqoktdlt2tv
+
+#EXTINF:-1 tvg-id="radios.br" tvg-name="https://zeno.fm/radio/radio-new-age-joinville/" tvg-logo="https://i.ytimg.com/vi/TjNSmEvqWxU/maxresdefault.jpg" group-title="▆ RADIOS E AUDIOS ▆",RADIO NEW AGE JOINVILLE-2
+https://stream.zeno.fm/1yyqoktdlt2tv
+
