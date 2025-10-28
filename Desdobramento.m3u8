@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=700000
+https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/DHg1KxINkRZ8iKjfQ-jwkZA4NJF2Dc-7zH32uE_G7kx-Bo17d3MRQGE51-rS_i5s7JJH3zg3G0ppPgTIpmF0Zg/non_transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/master_dynamic_delta.m3u8?type=live
+#EXT-X-STREAM-INF:BANDWIDTH=700000
+https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/DHg1KxINkRZ8iKjfQ-jwkZA4NJF2Dc-7zH32uE_G7kx-Bo17d3MRQGE51-rS_i5s7JJH3zg3G0ppPgTIpmF0Zg/non_transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/master_dynamic_delta.m3u8?type=replay
