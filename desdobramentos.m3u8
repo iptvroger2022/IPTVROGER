@@ -1,11 +1,5 @@
-
-#EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=640x360
 https://archive.org/download/tunel_do_tempo/EP01%20-%20Volta%20ao%20Passado.mp4
-#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=640x360
 https://archive.org/download/tunel_do_tempo/EP02%20-%20Viagem%20%C3%A0%20Lua.mp4
-#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=640x360
 https://archive.org/download/tunel_do_tempo/EP03%20-%20O%20Fim%20do%20Mundo.mp4
-#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=640x360
 https://archive.org/download/tunel_do_tempo/EP04%20-%20O%20Dia%20em%20que%20o%20C%C3%A9u%20Desabou.mp4
 https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/AFkZTVEMzurtCfpwP15XOKnlapcz7c28h6Ezx2t8Tupvl6Hq5HGvGoT13osKZsxgUR1doyk3Y3nH9SSFTMvgzg/non_transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/master_dynamic_delta.m3u8?type=replay
