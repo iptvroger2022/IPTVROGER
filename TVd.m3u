@@ -1,5 +1,8 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-id="Tvdnews.br" description="Assuntos Politicos de Direita" tvg-name="https://tvdnews.com.br/#_http://201.159.95.110/player.html" tvg-logo="https://i.imgur.com/3G9NiWt.png" group-title="▆ NOTICIAS ▆",TESSSTE
+https://github.com/iptvroger2022/IPTVROGER/raw/refs/heads/main/EUPATCRI
+
 #EXTINF:-1 tvg-id="Tvdnews.br" description="Assuntos Politicos de Direita" tvg-name="https://tvdnews.com.br/#_http://201.159.95.110/player.html" tvg-logo="https://i.imgur.com/3G9NiWt.png" group-title="▆ NOTICIAS ▆",TVD NEWS
 http://201.159.95.230:8000/play/a001/index.m3u8#_TVD_NEWS#_https://tvdnews.com.br/#_http://201.159.95.110/player.html
 
