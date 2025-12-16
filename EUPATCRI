@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Canal 1",Canal Teste 1
 https://static.videezy.com/system/resources/previews/000/006/899/original/Scientists_blur.mp4
-#EXTINF:-1 tvg-name="Canal 1",Canal Teste 2
+#EXTINF:-1 tvg-name="Canal 2",Canal Teste 2
 https://static.videezy.com/system/resources/previews/000/051/293/original/DSC_1970.mp4
-#EXTINF:-1 tvg-name="Canal 1",Canal Teste 3
+#EXTINF:-1 tvg-name="Canal 3",Canal Teste 3
 https://static.videezy.com/system/resources/previews/000/048/799/original/Doctor-01.mp4
 
 
