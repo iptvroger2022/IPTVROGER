@@ -1,5 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
 http://201.159.95.130:8000/play/a001/index.m3u8
 http://201.159.95.110:8000/play/a001/index.m3u8
 http://201.159.95.230:8000/play/a001/index.m3u8
