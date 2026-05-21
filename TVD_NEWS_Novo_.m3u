@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1, TVDNEWS-1
-http://201.159.95.130:8000/play/a001/index.m3u8
-#EXTINF:-1, TVDNEWS-2
 http://201.159.95.230:8000/play/a001/index.m3u8
+#EXTINF:-1, TVDNEWS-2
+http://201.159.95.130:8000/play/a001/index.m3u8
