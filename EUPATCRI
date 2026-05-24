@@ -1,9 +1,154 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="Canal 1",Canal Teste 1
-https://static.videezy.com/system/resources/previews/000/006/899/original/Scientists_blur.mp4
-#EXTINF:-1 tvg-name="Canal 2",Canal Teste 2
-https://static.videezy.com/system/resources/previews/000/051/293/original/DSC_1970.mp4
-#EXTINF:-1 tvg-name="Canal 3",Canal Teste 3
-https://static.videezy.com/system/resources/previews/000/048/799/original/Doctor-01.mp4
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
+#PLAYLIST:t.me/iptv50na50
 
+#EXTINF:-1 tvg-id="BetterLifeNatureChannel.us" tvg-name="Better Life Nature Channel" group-title="Relax",Better Life Nature Channel [704x480]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
 
+#EXTINF:-1 tvg-name="Fireplace 4k" group-title="Relax",Fireplace 4k [3840x2160]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://i.mjh.nz/SamsungTVPlus/USBA3800004EL.m3u8
+
+#EXTINF:-1 tvg-id="Loupe4K.us" tvg-name="Loupe 4K" group-title="Relax",Loupe 4K [3840x2160]
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+
+#EXTINF:-1 tvg-id="Loupe4K.us" tvg-name="Loupe TV" group-title="Relax",Loupe TV [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
+
+#EXTINF:-1 tvg-name="Relaxon" group-title="Relax",Relaxon [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://iptv.prosto.tv:7000/ch317/video.m3u8
+
+#EXTINF:-1 tvg-name="Space Stream" group-title="Relax",Space Stream [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://iptv.prosto.tv:7000/ch314/video.m3u8
+
+#EXTINF:-1 tvg-name="Stream City" group-title="Relax",Stream City [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://iptv.prosto.tv:7000/ch321/video.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-name="World HD" group-title="Relax",World [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-name="Aquarium" group-title="Relax",Aquarium [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://iptv.prosto.tv:7000/ch325/video.m3u8
+
+#EXTINF:-1 tvg-name="Pool" group-title="Relax",Pool [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://iptv.prosto.tv:7000/ch345/video.m3u8
+
+#EXTINF:-1 tvg-name="Waterfall" group-title="Relax",Waterfall [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://iptv.prosto.tv:7000/ch329/video.m3u8
+
+#EXTINF:-1 tvg-name="Mountain Valley" group-title="Relax",Mountain Valley [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://iptv.prosto.tv:7000/ch302/video.m3u8
+
+#EXTINF:-1 tvg-name="Mountains" group-title="Relax",Mountains [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://iptv.prosto.tv:7000/ch340/video.m3u8
+
+#EXTINF:-1 tvg-name="Jungle" group-title="Relax",Jungle [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://iptv.prosto.tv:7000/ch339/video.m3u8
+
+#EXTINF:-1 tvg-name="Rain" group-title="Relax",Rain [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://iptv.prosto.tv:7000/ch304/video.m3u8
+
+#EXTINF:-1 tvg-name="Railway" group-title="Relax",Railway [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://iptv.prosto.tv:7000/ch348/video.m3u8
+
+#EXTINF:-1 tvg-name="Rain Sounds 24/7" group-title="Relax",Rain Sounds 24/7 [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://hls.goodgame.ru/hls/198378.m3u8
+
+#EXTINF:-1 tvg-name="Winter" group-title="Relax",Winter [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://iptv.prosto.tv/ch327/video.m3u8
+
+#EXTINF:-1 tvg-name="Zoo" group-title="Relax",Zoo [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://iptv.prosto.tv:7000/ch319/video.m3u8
+
+#EXTINF:-1 tvg-name="Fireplace" group-title="Relax",Fireplace [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://iptv.prosto.tv:7000/ch318/video.m3u8
+
+#EXTINF:-1 tvg-name="Disasters" group-title="Relax",Disasters [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://iptv.prosto.tv:7000/ch312/video.m3u8
+
+#EXTINF:-1 tvg-name="Relax Room" group-title="Relax",Relax Room [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://iptv.prosto.tv:7000/ch328/video.m3u8
+
+#EXTINF:-1 tvg-name="Forest" group-title="Relax",Forest [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://iptv.prosto.tv:7000/ch330/video.m3u8
+
+#EXTINF:-1 tvg-name="Night" group-title="Relax",Night [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://iptv.prosto.tv:7000/ch349/video.m3u8
+
+#EXTINF:-1 tvg-name="Fire" group-title="Relax",Fire [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://iptv.prosto.tv:7000/ch331/video.m3u8
+
+#EXTINF:-1 tvg-name="Lake" group-title="Relax",Lake [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://iptv.prosto.tv:7000/ch341/video.m3u8
+
+#EXTINF:-1 tvg-name="Park" group-title="Relax",Park [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://iptv.prosto.tv:7000/ch350/video.m3u8
+
+#EXTINF:-1 tvg-name="Landscape" group-title="Relax",Landscape [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://iptv.prosto.tv:7000/ch343/video.m3u8
+
+#EXTINF:-1 tvg-name="Beach" group-title="Relax",Beach [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://iptv.prosto.tv:7000/ch332/video.m3u8
+
+#EXTINF:-1 tvg-name="Underwater World" group-title="Relax",Underwater World [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://iptv.prosto.tv:7000/ch305/video.m3u8
+
+#EXTINF:-1 tvg-name="Pro Fact" group-title="Relax",Pro Fact [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://iptv.prosto.tv:7000/ch315/video.m3u8
+
+#EXTINF:-1 tvg-name="Simply Ukraine" group-title="Relax",Simply Ukraine [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://iptv.prosto.tv:7000/ch303/video.m3u8
+
+#EXTINF:-1 tvg-name="River" group-title="Relax",River [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://iptv.prosto.tv:7000/ch338/video.m3u8
+
+#EXTINF:-1 tvg-name="Garden" group-title="Relax",Garden [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://iptv.prosto.tv:7000/ch347/video.m3u8
+
+#EXTINF:-1 tvg-name="Light Around" group-title="Relax",Light Around [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://iptv.prosto.tv:7000/ch351/video.m3u8
+
+#EXTINF:-1 tvg-name="Tropics" group-title="Relax",Tropics [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://iptv.prosto.tv:7000/ch335/video.m3u8
+
+#EXTINF:-1 tvg-name="Flora" group-title="Relax",Flora [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://iptv.prosto.tv:7000/ch346/video.m3u8
+
+#EXTINF:-1 tvg-name="ECO System" group-title="Relax",ECO System [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://iptv.prosto.tv:7000/ch316/video.m3u8
