@@ -1,6 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
-#PLAYLIST:t.me/iptv50na50
-
+#EXTM3U
 #EXTINF:-1 tvg-id="BetterLifeNatureChannel.us" tvg-name="Better Life Nature Channel" group-title="Relax",Better Life Nature Channel [704x480]
 #EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
 https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
