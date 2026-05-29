@@ -1,4 +1,1 @@
-#EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=4000000,RESOLUTION=1920x1080
-https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/qjfZUlsPWXec4_R6xoGMQ1sspCx_McQupvCwZiy4OI4eS12rHNW4QfVx4Uam3oblzHRPYgZ3rJ1_RwVbF_D0yw/non_transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/master_dynamic_16709778957512556255.m3u8?type=replay
-
+https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/fAtqPCQ6yPySVLI41O4gVAQGYfAjOSJ_3owc2nEiDk7fkT2ut5jMlMgjpELv2eI8ovCbbizspWAKtCT0Q2xygQ/non_transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/master_dynamic_16666663655446358515.m3u8?type=replay#.mp4
