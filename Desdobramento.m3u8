@@ -1,4 +1,1 @@
-#EXTM3U
-#EXT-X-VERSION:2
-#EXT-X-STREAM-INF:BANDWIDTH=1000000
-https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/v0-ZgMNkB6LZUoMiWvcQEocvZ5Z1PBK1PQUJ4Uj5qocQlBMze-rxFUcmKc6wWEo5PY3tRTl_rvzrVACYolmHxQ/non_transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/master_dynamic_delta.m3u8?type=replay#.mp4
+https://github.com/iptvroger2022/IPTVROGER/raw/refs/heads/main/DESDOBRAMENTOS_(Twiter-live).m3u8
